@@ -2,10 +2,6 @@
 
 > A data-driven analysis of a B2B sales pipeline (850 leads) — uncovering where deals stall, how sales reps perform, which lead sources deliver the most value, how sales cycles vary by region, and why deals are lost. Includes actionable recommendations for sales leadership.
 
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![Data](https://img.shields.io/badge/leads_analyzed-850-1B3A5C)
-![Language](https://img.shields.io/badge/lang-Bahasa%20%2F%20English-E8833A)
-
 ---
 
 ## 📋 Table of Contents
@@ -50,9 +46,20 @@ The full narrative report (with executive framing, callouts, and recommendations
 
 ---
 
+## 🛠️ Tools & Tech Stack
+
+- **SQL** — extracting & aggregating campaign data from the database
+- **Power BI** — dashboard visualization and cross-channel performance reporting
+- **Claude AI** — used to accelerate project development and improve workflow efficiency
+- **Data Visualization** — communicating insights to non-technical stakeholders
+
+---
+
+## 🔍 Key Findings
+
 ## 1. Where Are Leads Dropping Off?
 
-![Funnel Conversion](./charts/1_funnel_conversion.png)
+![Funnel Conversion](1.png)
 
 **Key numbers**
 - 🔻 **71.2%** conversion from Qualified → Proposal Sent (biggest drop-off)
