@@ -1,0 +1,851 @@
+lead_id,company_name,industry,lead_source,sales_rep,region,created_date,current_stage,stage_last_updated,last_contact_date,deal_value,lost_reason,notes
+LD1000,CV Bumi Perkasa,Construction,Email Campaign,Siti Nurhaliza,Makassar,2024-04-24,Lead In,2024-05-30,,,,Follow up next week
+LD1001,PT. Berkah Mandiri,F&B,Cold Call,Budi Santoso,,2025-07-28,Contacted,2025-10-20,2025-10-25,,,Waiting for PO
+LD1002,PT Tunas Muda,Education,Trade Show,Siti Nurhaliza,Yogyakarta,2025-01-24,Lead In,2025-03-10,2025-03-18,,,Client on vacation
+LD1003,UD Mitra Sejahtera,Technology,Referral,Budi Santoso,Palembang,2024-10-23,Closed Lost,2024-11-22,2024-11-02,58259000.0,Project cancelled,VIP client
+LD1004,PT. Karya Utama,Education,Referral,Budi Santoso,Yogyakarta,2024-02-02,Closed Won,2024-03-25,2024-03-27,131702000.0,,Needs approval from board
+LD1005,UD Cipta Karya,Manufacturing,Website,,Palembang,2024-03-04,Negotiation,2024-04-18,2024-04-24,90269000.0,,Waiting for PO
+LD1006,UD Harapan Baru,Manufacturing,Email Campaign,Siti Nurhaliza,,2025-03-21,Contacted,2025-03-22,2025-03-30,,,VIP client
+LD1007,UD Berkah Mandiri,,Partner,Siti Nurhaliza,Jakarta,2025-07-06,Closed Lost,2025-09-12,2025-09-06,18556000.0,,
+LD1008,UD Tunas Muda,Technology,Social Media,Siti Nurhaliza,Surabaya,2024-09-28,Proposal Sent,2024-12-15,2024-10-06,33346000.0,,
+LD1009,CV Delta Solusi,Construction,Referral,Yuni Shara,,2024-03-13,Negotiation,2024-03-21,,136002000.0,,Needs approval from board
+LD1010,CV Nusantara Jaya,Manufacturing,Social Media,Dewi Lestari,,2024-02-25,Proposal Sent,2024-05-18,2024-04-21,61588000.0,,VIP client
+LD1011,PT. Cahaya Abadi,Logistics,Website,Ahmad Fauzi,Bandung,2024-08-30,Contacted,2024-11-01,2024-10-05,,,VIP client
+LD1012,PT Sejahtera Bersama,Finance,Partner,Yuni Shara,Yogyakarta,2024-10-30,Contacted,2024-11-07,,,,VIP client
+LD1013,UD Global Teknindo,Education,LinkedIn,Rina Marlina,Surabaya,2024-03-10,Proposal Sent,2024-04-10,,141356000.0,,Waiting for PO
+LD1015,CV Global Teknindo,Manufacturing,Referral,Rina Marlina,Surabaya,2024-05-17,Contacted,2024-05-31,2024-06-06,,,VIP client
+LD1016,UD Sinar Jaya,Retail,Email Campaign,Ahmad Fauzi,Yogyakarta,2024-10-10,Lead In,2024-11-22,,,,
+LD1017,UD Cahaya Abadi,Manufacturing,Referral,,Surabaya,2025-07-19,Contacted,2025-08-05,2025-07-25,,,VIP client
+LD1018,CV Global Teknindo,Retail,LinkedIn,Siti Nurhaliza,Medan,2024-08-30,Closed Won,2024-09-22,2024-09-29,51163000.0,,Send revised proposal
+LD1019,UD Sumber Makmur,Education,Cold Call,Andi Wijaya,Makassar,2024-07-16,Qualified,2024-08-21,,96939000.0,,Needs approval from board
+LD1020,PT NUSANTARA JAYA,,,Budi Santoso,Denpasar,2025-07-06,Contacted,2025-08-20,2025-08-31,,,Needs approval from board
+LD1021,PT. Sinar Jaya,Retail,Cold Call,Ahmad Fauzi,Yogyakarta,2024-05-07,Negotiation,2024-06-15,2024-05-26,100700000.0,,Needs approval from board
+LD1022,UD Mitra Sejahtera,Education,,Dewi Lestari,Denpasar,2025-03-28,Qualified,2025-04-25,2025-04-11,119473000.0,,
+LD1023,PT Nusantara Jaya,Retail,,Budi Santoso,Semarang,2024-03-15,Qualified,2024-06-04,2024-05-25,108315000.0,,
+LD1024,PT. Tunas Muda,Finance,Referral,,Bandung,2024-11-20,Closed Lost,2025-01-16,2025-01-21,124924000.0,Project cancelled,Send revised proposal
+LD1025,PT. Sejahtera Bersama,Construction,Trade Show,Budi Santoso,Surabaya,2024-12-09,Qualified,2025-02-17,2025-01-27,24323000.0,,
+LD1026,PT. Nusantara Jaya,Retail,LinkedIn,Budi Santoso,,2025-05-03,Lead In,2025-06-18,2025-06-29,,,Follow up next week
+LD1027,PT Mitra Sejahtera,Retail,Referral,Yuni Shara,Jakarta,2024-10-12,Proposal Sent,2025-01-31,2025-12-01,126395000.0,,Follow up next week
+LD1028,PT Maju Terus,Retail,Website,,Jakarta,2025-03-07,Contacted,2025-03-18,2025-03-14,,,
+LD1029,UD Bumi Perkasa,Construction,Cold Call,Andi Wijaya,Denpasar,2024-04-27,Proposal Sent,2024-05-25,2024-05-22,39924000.0,,Follow up next week
+LD1030,PT. Central Distribusi,Logistics,Cold Call,,,2024-03-05,Negotiation,2024-07-15,2024-05-22,56844000.0,,VIP client
+LD1031,PT. SEJAHTERA BERSAMA,Logistics,,Rina Marlina,Jakarta,2025-05-10,Qualified,2025-07-25,2025-06-06,14826000.0,,Waiting for PO
+LD1032,PT Mitra Sejahtera,Manufacturing,Trade Show,Dewi Lestari,Bandung,2024-01-11,Proposal Sent,2024-02-05,2024-02-17,114208000.0,,VIP client
+LD1033,UD Delta Solusi,Manufacturing,Email Campaign,Andi Wijaya,Bandung,2024-12-26,Negotiation,2025-01-30,2025-01-07,36120000.0,,Client on vacation
+LD1034,CV Central Distribusi,Logistics,Website,Andi Wijaya,Bandung,2024-07-10,Lead In,2024-10-14,2024-10-22,,,
+LD1035,CV Bumi Perkasa,Retail,Trade Show,Andi Wijaya,Makassar,2024-03-07,Qualified,2024-03-17,2024-03-14,122049000.0,,Needs approval from board
+LD1036,CV Sinar Jaya,Logistics,Referral,Budi Santoso,Medan,2025-03-15,Qualified,2025-03-06,2025-06-11,144096000.0,,Waiting for PO
+LD1037,CV Global Teknindo,Education,Website,Budi Santoso,Jakarta,2024-03-13,Negotiation,2024-04-16,2024-04-20,140183000.0,,
+LD1038,PT Mitra Sejahtera,Retail,Inbound Call,Andi Wijaya,Makassar,2024-11-07,Negotiation,2024-12-12,2024-12-25,7899000.0,,Waiting for PO
+LD1039,PT Sinar Jaya,Manufacturing,LinkedIn,Yuni Shara,Bandung,2025-03-28,Closed Won,2025-04-21,2025-04-22,145420000.0,,VIP client
+LD1040,PT Cipta Karya,Healthcare,Website,Dewi Lestari,Yogyakarta,2024-11-27,Contacted,2025-01-18,2025-01-29,,,
+LD1041,PT. Mitra Sejahtera,Manufacturing,,Siti Nurhaliza,Semarang,2025-03-24,Closed Won,2025-05-26,2025-04-12,146026000.0,,Waiting for PO
+LD1042,CV Mega Trading,Construction,Referral,Siti Nurhaliza,Bandung,2025-04-28,Contacted,2025-08-07,2025-10-06,,,VIP client
+LD1043,CV Berkah Mandiri,Healthcare,Referral,Ahmad Fauzi,Jakarta,2025-08-24,Proposal Sent,2025-11-17,2025-11-27,53078000.0,,Needs approval from board
+LD1044,CV Nusantara Jaya,Education,Referral,Siti Nurhaliza,Semarang,2024-09-05,Proposal Sent,2024-07-24,2024-06-21,16757000.0,,Needs approval from board
+LD1045,PT. Bumi Perkasa,F&B,LinkedIn,Siti Nurhaliza,Semarang,2024-11-20,Proposal Sent,2025-01-22,2024-12-28,95412000.0,,
+LD1046,CV Central Distribusi,Manufacturing,Referral,Dewi Lestari,Semarang,2025-01-18,Qualified,2025-02-19,2025-02-03,85757000.0,,
+LD1047,UD Nusantara Jaya,Construction,Social Media,Rudi Hartono,Surabaya,2024-10-06,Lead In,2024-07-25,2024-03-08,,,Follow up next week
+LD1048,PT Delta Solusi,,,Budi Santoso,Makassar,2024-10-29,Lead In,2025-01-22,2024-12-31,,,Waiting for PO
+LD1049,PT Prima Nusantara,,Website,Andi Wijaya,Bandung,2024-08-12,Proposal Sent,2024-10-31,,113825000.0,,Waiting for PO
+LD1050,UD Harapan Baru,Logistics,Cold Call,Andi Wijaya,Bandung,2024-07-24,Contacted,2024-10-02,2024-08-30,,,Client on vacation
+LD1051,PT Tunas Muda,Retail,LinkedIn,,Bandung,2024-08-19,Closed Won,2024-11-14,2024-10-06,56135000.0,,Client on vacation
+LD1052,PT Cahaya Abadi,Technology,Social Media,Siti Nurhaliza,Jakarta,2025-07-28,Qualified,2025-10-15,,136589000.0,,Send revised proposal
+LD1053,UD Anugrah Sentosa,Manufacturing,Referral,Rina Marlina,Jakarta,2025-08-24,Negotiation,2025-09-13,2025-09-16,93117000.0,,Client on vacation
+LD1054,PT Cahaya Abadi,Retail,Referral,Andi Wijaya,,2025-04-10,Lead In,2025-05-08,,,,VIP client
+LD1055,PT Maju Terus,Retail,Referral,Andi Wijaya,Bandung,2024-12-02,Negotiation,2024-11-29,2024-12-24,148154000.0,,
+LD1056,UD Tunas Muda,Construction,Website,Budi Santoso,Semarang,2025-05-02,Qualified,2025-06-18,2025-05-29,18140000.0,,Send revised proposal
+LD1057,PT. Harapan Baru,Manufacturing,Website,Siti Nurhaliza,,2024-11-25,Proposal Sent,2024-12-04,2024-12-15,107399000.0,,VIP client
+LD1058,PT. Mitra Sejahtera,Manufacturing,Website,Siti Nurhaliza,Medan,2024-08-21,Qualified,2024-10-19,2024-07-10,48253000.0,,VIP client
+LD1059,CV Karya Utama,Finance,Referral,Siti Nurhaliza,Bandung,2024-05-05,Qualified,2024-07-30,,9614000.0,,Waiting for PO
+LD1060,UD Sumber Makmur,Healthcare,LinkedIn,Rudi Hartono,Bandung,2025-07-24,Lead In,2025-10-17,2025-07-24,,,
+LD1061,PT. Tunas Muda,Healthcare,Cold Call,Rudi Hartono,Palembang,2024-02-01,Lead In,2024-04-09,2024-04-13,,,
+LD1062,PT. Harapan Baru,Retail,Website,Dewi Lestari,Medan,2024-10-05,Qualified,2024-11-29,,67423000.0,,Waiting for PO
+LD1063,UD Mitra Sejahtera,Retail,LinkedIn,Budi Santoso,Medan,2024-10-23,Qualified,2024-10-24,2024-11-06,65737000.0,,Client on vacation
+LD1064,CV Mega Trading,Construction,LinkedIn,Rina Marlina,Jakarta,2024-10-23,Contacted,2024-10-26,2024-10-26,,,
+LD1065,PT Harapan Baru,,,Rina Marlina,Bandung,2024-12-13,Contacted,2025-01-04,2024-12-22,,,
+LD1066,PT. Delta Solusi,Manufacturing,Partner,Rina Marlina,,2024-03-18,Contacted,2024-07-06,2024-04-27,,,
+LD1067,PT Mega Trading,Finance,Trade Show,Yuni Shara,Makassar,2024-02-27,Qualified,2024-03-08,2024-03-23,68883000.0,,
+LD1068,CV Tunas Muda,F&B,Email Campaign,Budi Santoso,Makassar,2025-02-05,Proposal Sent,2025-05-10,2025-05-13,122023000.0,,Waiting for PO
+LD1069,PT. Prima Nusantara,F&B,,,Makassar,2024-08-12,Lead In,2024-12-21,,,,
+LD1070,UD Sumber Makmur,Logistics,Referral,Dewi Lestari,Bandung,2024-12-05,Proposal Sent,2024-05-23,2024-05-18,57749000.0,,
+LD1071,CV TUNAS MUDA,Technology,Cold Call,,Palembang,2025-07-06,Closed Won,2025-12-09,2025-08-31,21395000.0,,Send revised proposal
+LD1072,CV Global Teknindo,Manufacturing,Social Media,Rina Marlina,Yogyakarta,2024-07-17,Qualified,2024-09-29,2024-09-21,58517000.0,,Waiting for PO
+LD1073,CV Tunas Muda,Construction,Website,Ahmad Fauzi,Jakarta,2025-09-06,Contacted,2025-08-04,2025-08-12,,,Needs approval from board
+LD1074,CV Central Distribusi,Education,Website,Siti Nurhaliza,Jakarta,2024-11-22,Closed Lost,2025-02-14,2024-12-19,,,
+LD1075,PT. Mitra Sejahtera,Retail,Social Media,Andi Wijaya,Yogyakarta,2024-04-11,Contacted,2024-12-05,2024-12-14,,,Follow up next week
+LD1076,PT Harapan Baru,Finance,Website,Budi Santoso,Yogyakarta,2024-12-27,Contacted,2025-02-19,2025-01-03,,,Needs approval from board
+LD1077,UD Sinar Jaya,Logistics,Inbound Call,Yuni Shara,Palembang,2024-09-16,Negotiation,2024-11-01,2024-10-26,94982000.0,,
+LD1078,UD Prima Nusantara,Education,,Budi Santoso,Semarang,2024-07-25,Lead In,2024-08-20,2024-07-27,,,Follow up next week
+LD1079,UD Mitra Sejahtera,F&B,Website,Ahmad Fauzi,Makassar,2024-07-05,Negotiation,2024-02-07,2024-07-15,112010000.0,,
+LD1080,PT Maju Terus,Retail,Trade Show,Rudi Hartono,Denpasar,2025-03-12,Contacted,2025-05-08,2025-03-21,,,Needs approval from board
+LD1081,UD Maju Terus,F&B,Partner,Budi Santoso,Makassar,2025-03-24,Lead In,2025-04-02,2025-04-14,,,Client on vacation
+LD1082,PT Global Teknindo,Retail,LinkedIn,Yuni Shara,Surabaya,2025-06-26,Qualified,2025-08-06,2025-07-14,110880000.0,,Send revised proposal
+LD1083,UD Prima Nusantara,Healthcare,LinkedIn,,Jakarta,2024-06-25,Closed Won,2024-08-21,2024-08-29,148013000.0,,Follow up next week
+LD1084,PT. Harapan Baru,F&B,Trade Show,Andi Wijaya,Jakarta,2025-01-04,Proposal Sent,2025-02-21,2025-02-13,147486000.0,,Send revised proposal
+LD1085,CV Sejahtera Bersama,Education,Referral,Rina Marlina,Yogyakarta,2025-07-18,Proposal Sent,2025-08-11,2025-07-23,21097000.0,,VIP client
+LD1086,PT MITRA SEJAHTERA,Manufacturing,Inbound Call,Andi Wijaya,Bandung,2024-04-05,Proposal Sent,2024-04-27,2024-04-18,94423000.0,,Needs approval from board
+LD1087,PT. Central Distribusi,Healthcare,Cold Call,Andi Wijaya,Jakarta,2024-10-23,Proposal Sent,2024-01-12,2024-12-07,121094000.0,,Client on vacation
+LD1088,UD Tunas Muda,Construction,Website,Budi Santoso,Bandung,2025-07-29,Contacted,2025-08-29,2025-09-06,,,
+LD1089,CV Delta Solusi,Retail,Website,Rudi Hartono,Semarang,2024-06-12,Proposal Sent,2024-08-17,2024-11-08,15327000.0,,
+LD1090,PT. Cipta Karya,Manufacturing,Partner,,Makassar,2025-09-01,Negotiation,2025-02-25,2025-01-17,55654000.0,,Needs approval from board
+LD1091,PT CAHAYA ABADI,Logistics,LinkedIn,Rina Marlina,,2024-05-27,Contacted,2024-01-08,2024-08-01,,,
+LD1092,UD Delta Solusi,Logistics,,Budi Santoso,Yogyakarta,2024-11-22,Contacted,2025-09-02,2025-02-20,,,Send revised proposal
+LD1093,CV Harapan Baru,Manufacturing,Partner,Ahmad Fauzi,Jakarta,2025-03-02,Proposal Sent,2025-05-30,,90343000.0,,
+LD1094,PT. Cahaya Abadi,Healthcare,Email Campaign,Dewi Lestari,Yogyakarta,2025-03-04,Contacted,2025-06-01,2025-05-27,,,Needs approval from board
+LD1095,UD Berkah Mandiri,Technology,Cold Call,Rudi Hartono,Palembang,2024-12-16,Proposal Sent,2025-03-13,2025-03-14,104610000.0,,Client on vacation
+LD1096,PT Maju Terus,Logistics,Inbound Call,Rudi Hartono,Palembang,2024-05-04,Proposal Sent,2024-07-13,2024-05-31,147064000.0,,VIP client
+LD1097,PT. Sejahtera Bersama,F&B,Website,,,2024-04-21,Proposal Sent,2024-07-06,2024-04-21,9513000.0,,
+LD1098,CV Cahaya Abadi,,Trade Show,Yuni Shara,Jakarta,2024-10-21,Qualified,2025-01-12,2024-11-27,115771000.0,,
+LD1099,UD Sinar Jaya,F&B,Inbound Call,Rudi Hartono,Palembang,2024-10-18,Qualified,2025-01-09,2024-10-19,127957000.0,,Waiting for PO
+LD1100,UD Indo Sukses,Education,,Rudi Hartono,Bandung,2025-02-19,Closed Won,2025-04-26,2025-05-04,147289000.0,,
+LD1101,UD Maju Terus,F&B,Referral,Andi Wijaya,Semarang,2024-05-01,Qualified,2024-05-22,2024-05-30,106126000.0,,
+LD1102,PT Cahaya Abadi,Finance,Email Campaign,Dewi Lestari,Makassar,2024-08-11,Negotiation,2024-11-07,2024-08-30,68119000.0,,VIP client
+LD1103,UD Sumber Makmur,Technology,,Budi Santoso,Palembang,2024-04-03,Closed Won,2024-05-31,,69108000.0,,Client on vacation
+LD1104,PT. Indo Sukses,Finance,Inbound Call,,,2024-03-11,Closed Lost,2024-05-11,2024-03-28,115342000.0,Timing not right,
+LD1105,CV Tunas Muda,Manufacturing,Cold Call,Dewi Lestari,Palembang,2024-05-10,Negotiation,2024-06-08,2024-05-12,70525000.0,,Needs approval from board
+LD1106,PT Berkah Mandiri,Finance,Trade Show,Yuni Shara,Surabaya,2024-09-03,Contacted,2024-03-14,2024-03-15,,,
+LD1107,CV Nusantara Jaya,Manufacturing,Website,Rina Marlina,Denpasar,2024-11-22,Proposal Sent,2025-02-17,2025-09-01,37062000.0,,Client on vacation
+LD1108,CV Prima Nusantara,Finance,Referral,Yuni Shara,Jakarta,2025-01-20,Contacted,2025-03-30,2025-03-13,,,VIP client
+LD1109,PT. Mega Trading,Retail,,Siti Nurhaliza,Surabaya,2024-07-27,Qualified,2024-07-08,2024-08-19,127376000.0,,Follow up next week
+LD1110,UD Prima Nusantara,Education,Email Campaign,,Bandung,2024-08-04,Closed Lost,2024-08-20,2024-08-20,113641000.0,,Send revised proposal
+LD1111,CV Indo Sukses,Manufacturing,Referral,Yuni Shara,Yogyakarta,2025-01-14,Qualified,2025-01-20,2025-02-04,40595000.0,,Send revised proposal
+LD1112,PT HARAPAN BARU,Manufacturing,,Siti Nurhaliza,,2024-12-26,Contacted,2025-03-06,2025-01-01,,,Needs approval from board
+LD1113,PT. CENTRAL DISTRIBUSI,Retail,Email Campaign,Budi Santoso,Medan,2024-10-01,Contacted,2024-03-09,2024-01-12,,,Waiting for PO
+LD1114,PT. Mitra Sejahtera,Technology,Trade Show,Yuni Shara,Makassar,2025-03-16,Closed Won,2025-04-08,2025-03-30,30406000.0,,
+LD1115,PT Harapan Baru,,Referral,Dewi Lestari,,2025-01-23,Qualified,2025-03-25,2025-04-05,75979000.0,,
+LD1116,CV Indo Sukses,Technology,Cold Call,Andi Wijaya,Makassar,2024-02-03,Contacted,2024-01-30,2024-03-10,,,Needs approval from board
+LD1117,PT. SEJAHTERA BERSAMA,Technology,Cold Call,Yuni Shara,Semarang,2024-05-23,Negotiation,2024-08-20,2024-07-07,9947000.0,,Needs approval from board
+LD1118,PT Prima Nusantara,F&B,,Rudi Hartono,Jakarta,2024-10-29,Negotiation,2024-11-08,2024-10-31,95817000.0,,Send revised proposal
+LD1119,UD INDO SUKSES,Manufacturing,Trade Show,Ahmad Fauzi,,2024-01-27,Lead In,2024-04-07,2024-04-07,,,Follow up next week
+LD1120,PT Sinar Jaya,Manufacturing,Trade Show,Rudi Hartono,Semarang,2024-05-22,Contacted,2024-06-26,2024-06-14,,,Follow up next week
+LD1121,CV Prima Nusantara,Healthcare,LinkedIn,Dewi Lestari,Semarang,2024-07-19,Qualified,2024-08-06,2024-07-30,93788000.0,,Client on vacation
+LD1122,PT. Anugrah Sentosa,Construction,Cold Call,Siti Nurhaliza,,2024-11-29,Qualified,2025-01-19,,139946000.0,,Waiting for PO
+LD1123,PT. Cipta Karya,Retail,,Ahmad Fauzi,Yogyakarta,2025-01-21,Lead In,2025-04-08,2025-03-08,,,VIP client
+LD1124,PT. Sejahtera Bersama,Manufacturing,Trade Show,Siti Nurhaliza,Jakarta,2024-12-29,Contacted,2025-03-18,2025-01-31,,,VIP client
+LD1125,PT Bumi Perkasa,Education,LinkedIn,Andi Wijaya,Bandung,2025-01-18,Qualified,2025-04-15,2025-03-02,76069000.0,,Follow up next week
+LD1126,CV Berkah Mandiri,Finance,Email Campaign,Andi Wijaya,Bandung,2025-03-24,Negotiation,2025-05-21,2025-05-17,19033000.0,,Follow up next week
+LD1127,PT. Delta Solusi,Education,Website,Dewi Lestari,Surabaya,2025-02-09,Lead In,2025-04-29,2025-10-05,,,
+LD1128,PT. Harapan Baru,Retail,Cold Call,Andi Wijaya,Medan,2024-11-29,Contacted,2024-12-14,2024-12-11,,,Client on vacation
+LD1129,PT. Nusantara Jaya,F&B,Partner,Ahmad Fauzi,Medan,2024-10-31,Closed Won,2025-01-15,2025-01-01,21824000.0,,
+LD1130,PT. Nusantara Jaya,F&B,Trade Show,Yuni Shara,Semarang,2024-10-07,Qualified,2024-09-06,2024-07-20,130097000.0,,Follow up next week
+LD1131,PT. Cipta Karya,Finance,Partner,Siti Nurhaliza,Bandung,2024-10-22,Contacted,2024-12-20,2024-12-07,,,
+LD1132,UD Cahaya Abadi,Manufacturing,Cold Call,Siti Nurhaliza,Semarang,2025-03-11,Contacted,2025-03-06,2025-06-18,,,Follow up next week
+LD1133,CV Cahaya Abadi,Finance,Email Campaign,Rudi Hartono,Makassar,2025-03-14,Contacted,2025-04-01,2025-03-24,,,Waiting for PO
+LD1134,CV Indo Sukses,Manufacturing,Partner,,Bandung,2024-05-18,Closed Lost,2024-10-07,2024-07-10,148888000.0,Chose competitor,
+LD1135,PT. Anugrah Sentosa,Education,,Dewi Lestari,Semarang,2025-05-14,Qualified,2025-05-15,2025-05-24,145878000.0,,Client on vacation
+LD1136,PT. Anugrah Sentosa,F&B,Referral,,Bandung,2024-12-17,Closed Won,2024-12-24,,94675000.0,,Client on vacation
+LD1137,PT. Mitra Sejahtera,Logistics,Referral,Budi Santoso,Denpasar,2024-02-23,Qualified,2024-04-03,,113774000.0,,Client on vacation
+LD1139,PT Karya Utama,Construction,Partner,Ahmad Fauzi,Bandung,2024-12-25,Negotiation,2025-03-16,2025-02-03,138144000.0,,Follow up next week
+LD1140,CV Central Distribusi,Retail,Referral,Yuni Shara,Denpasar,2024-10-18,Negotiation,2024-10-13,2024-10-27,29920000.0,,
+LD1141,CV Cahaya Abadi,Education,,Ahmad Fauzi,Yogyakarta,2025-08-05,Qualified,2025-10-14,2025-10-24,114883000.0,,Needs approval from board
+LD1142,PT Prima Nusantara,Technology,LinkedIn,Dewi Lestari,Jakarta,2025-07-04,Proposal Sent,2025-08-09,2025-09-07,13695000.0,,
+LD1143,CV Central Distribusi,,Email Campaign,Budi Santoso,,2024-06-28,Contacted,2024-07-16,2024-07-14,,,
+LD1144,PT. Delta Solusi,Manufacturing,Referral,Rudi Hartono,,2024-12-09,Closed Won,2025-01-13,2025-01-14,94875000.0,,
+LD1145,CV Sinar Jaya,,,Budi Santoso,Yogyakarta,2024-01-13,Contacted,2024-03-14,2024-03-06,,,Follow up next week
+LD1146,PT. Prima Nusantara,Finance,Cold Call,Rina Marlina,Jakarta,2025-08-08,Qualified,2025-10-12,,9795000.0,,Follow up next week
+LD1147,PT Berkah Mandiri,Retail,Inbound Call,Budi Santoso,Bandung,2024-09-05,Qualified,2024-11-20,2024-11-28,149672000.0,,Waiting for PO
+LD1148,PT Delta Solusi,Construction,Referral,,,2025-05-18,Closed Lost,2025-06-06,2025-05-22,134799000.0,Price too high,Needs approval from board
+LD1149,PT Karya Utama,Construction,Social Media,Yuni Shara,Bandung,2024-09-24,Closed Won,2024-11-14,2024-10-09,110832000.0,,Follow up next week
+LD1150,PT Anugrah Sentosa,,Cold Call,Andi Wijaya,Jakarta,2024-02-04,Contacted,2024-06-29,2024-05-03,,,Needs approval from board
+LD1151,CV Karya Utama,Manufacturing,Trade Show,Rina Marlina,Denpasar,2024-02-01,Closed Lost,2024-03-30,2024-02-11,83418000.0,Project cancelled,
+LD1152,PT. Cahaya Abadi,,Partner,Ahmad Fauzi,,2024-05-11,Lead In,2024-06-23,2024-06-05,,,Needs approval from board
+LD1153,PT Mega Trading,Logistics,Referral,,Bandung,2024-10-07,Contacted,2024-09-06,2024-08-31,,,Send revised proposal
+LD1154,PT Indo Sukses,Logistics,Cold Call,Yuni Shara,Yogyakarta,2025-05-03,Contacted,2025-05-12,2025-04-18,,,VIP client
+LD1155,CV Bumi Perkasa,,Referral,Rudi Hartono,Yogyakarta,2024-11-22,Proposal Sent,2024-11-26,2024-11-23,148747000.0,,Follow up next week
+LD1156,UD DELTA SOLUSI,Retail,LinkedIn,Rina Marlina,Makassar,2024-06-29,Contacted,2024-08-09,2024-08-07,,,Follow up next week
+LD1157,PT Sejahtera Bersama,,Referral,Andi Wijaya,Bandung,2024-06-28,Proposal Sent,2024-07-10,2024-07-03,,,Client on vacation
+LD1158,CV Nusantara Jaya,F&B,Social Media,,Bandung,2024-04-23,Closed Won,2024-06-09,2024-06-07,57291000.0,,
+LD1159,PT Sinar Jaya,Manufacturing,,Andi Wijaya,Surabaya,2025-01-22,Qualified,2025-04-21,,,,Send revised proposal
+LD1160,CV Mitra Sejahtera,Retail,,Siti Nurhaliza,Palembang,2024-12-21,Closed Lost,2025-01-12,2024-12-24,101164000.0,,
+LD1161,PT PRIMA NUSANTARA,Healthcare,Cold Call,Siti Nurhaliza,Jakarta,2025-07-13,Qualified,2025-09-13,2025-03-08,35386000.0,,
+LD1162,CV Anugrah Sentosa,Manufacturing,Email Campaign,Budi Santoso,Bandung,2025-08-31,Closed Lost,2025-11-01,2025-10-06,91883000.0,Chose competitor,
+LD1163,CV Prima Nusantara,Construction,Social Media,Siti Nurhaliza,Bandung,2024-02-25,Qualified,2024-04-20,2024-04-25,123937000.0,,Waiting for PO
+LD1164,PT Mitra Sejahtera,Retail,,Budi Santoso,Medan,2025-01-14,Closed Won,2025-03-03,2025-02-12,40983000.0,,Needs approval from board
+LD1165,CV Sinar Jaya,Retail,,Dewi Lestari,Jakarta,2025-08-09,Closed Won,2025-10-09,,60431000.0,,Needs approval from board
+LD1166,PT. Bumi Perkasa,Retail,Referral,Andi Wijaya,Makassar,2024-09-21,Qualified,2024-09-30,2024-10-15,128780000.0,,
+LD1167,PT. Cahaya Abadi,,Cold Call,Dewi Lestari,Jakarta,2025-02-07,Closed Won,2025-08-24,2025-08-31,98909000.0,,Client on vacation
+LD1168,PT. Mega Trading,Construction,Referral,Yuni Shara,Surabaya,2025-05-18,Closed Won,2025-08-14,2025-08-20,146184000.0,,VIP client
+LD1169,PT BERKAH MANDIRI,Technology,Website,Rina Marlina,Palembang,2024-03-08,Qualified,2024-05-12,2024-04-12,117516000.0,,Send revised proposal
+LD1170,PT PRIMA NUSANTARA,Retail,Website,Andi Wijaya,,2025-01-16,Proposal Sent,2025-03-15,2025-02-12,130831000.0,,Follow up next week
+LD1171,UD Nusantara Jaya,Education,,Rina Marlina,Semarang,2024-01-21,Closed Won,2024-01-18,2024-02-17,3253000.0,,VIP client
+LD1172,PT Sejahtera Bersama,Education,Inbound Call,Rina Marlina,,2024-01-08,Proposal Sent,2024-04-02,2024-02-10,89878000.0,,Waiting for PO
+LD1173,CV Sejahtera Bersama,Manufacturing,Referral,,Yogyakarta,2025-02-17,Proposal Sent,2025-05-16,2025-05-28,45749000.0,,Client on vacation
+LD1174,CV Sejahtera Bersama,,Referral,Rina Marlina,Surabaya,2024-10-27,Lead In,2024-11-13,2024-11-15,,,Client on vacation
+LD1175,UD Nusantara Jaya,Technology,,Andi Wijaya,Jakarta,2024-04-30,Qualified,2024-07-21,2024-12-06,141757000.0,,
+LD1176,CV Delta Solusi,Retail,Social Media,Siti Nurhaliza,Jakarta,2024-07-03,Negotiation,2024-09-04,2024-08-27,10586000.0,,Needs approval from board
+LD1177,CV Berkah Mandiri,Manufacturing,Cold Call,Rudi Hartono,Jakarta,2024-02-08,Proposal Sent,2024-03-27,2024-03-28,134017000.0,,Waiting for PO
+LD1178,PT. Sumber Makmur,,LinkedIn,Andi Wijaya,Surabaya,2025-04-11,Negotiation,2025-06-27,2025-04-13,21801000.0,,
+LD1179,UD Central Distribusi,Retail,Referral,,Denpasar,2025-01-07,Proposal Sent,2025-09-16,2025-08-08,99972000.0,,
+LD1180,UD Harapan Baru,F&B,Cold Call,Ahmad Fauzi,Bandung,2024-05-20,Qualified,2024-03-06,2024-05-21,118144000.0,,Follow up next week
+LD1181,PT. Karya Utama,,,Budi Santoso,Jakarta,2024-01-03,Lead In,2024-01-15,,,,Waiting for PO
+LD1182,PT Sumber Makmur,Healthcare,Inbound Call,,Jakarta,2024-09-27,Qualified,2024-10-10,2024-08-10,55312000.0,,
+LD1183,UD Indo Sukses,F&B,Social Media,Ahmad Fauzi,Denpasar,2024-07-06,Contacted,2024-08-27,,,,
+LD1184,CV Central Distribusi,Retail,Website,Ahmad Fauzi,Semarang,2025-03-02,Closed Won,2025-05-03,2025-03-10,58203000.0,,Client on vacation
+LD1185,UD Indo Sukses,Retail,,Budi Santoso,Makassar,2024-08-17,Closed Lost,2024-11-11,2024-08-18,93499000.0,No budget,VIP client
+LD1186,PT. Delta Solusi,Healthcare,,Yuni Shara,Semarang,2025-05-18,Qualified,2025-06-30,2025-05-25,97211000.0,,
+LD1187,UD Harapan Baru,Healthcare,Inbound Call,,Semarang,2025-07-16,Lead In,2025-07-28,2025-07-27,,,Follow up next week
+LD1188,UD Cipta Karya,F&B,LinkedIn,Siti Nurhaliza,Jakarta,2025-04-29,Negotiation,2025-06-15,,34819000.0,,Needs approval from board
+LD1189,CV Sejahtera Bersama,Manufacturing,Trade Show,Budi Santoso,Denpasar,2024-07-11,Contacted,2024-08-31,2024-07-26,,,Send revised proposal
+LD1190,PT. Delta Solusi,Retail,Email Campaign,Andi Wijaya,Palembang,2025-05-25,Lead In,2025-06-01,2025-05-30,,,
+LD1191,CV Karya Utama,,LinkedIn,Budi Santoso,Bandung,2025-05-31,Closed Won,2025-07-24,2025-07-10,42492000.0,,VIP client
+LD1192,PT. Delta Solusi,,Inbound Call,Ahmad Fauzi,Denpasar,2024-10-24,Negotiation,2025-01-19,2024-12-31,28316000.0,,Needs approval from board
+LD1193,UD Sinar Jaya,Retail,Inbound Call,Rudi Hartono,Jakarta,2025-01-25,Contacted,2025-04-21,2025-04-23,,,Follow up next week
+LD1194,UD Cahaya Abadi,Manufacturing,Trade Show,Ahmad Fauzi,,2024-04-14,Proposal Sent,2024-07-10,2024-05-24,129997000.0,,
+LD1195,UD Tunas Muda,F&B,Inbound Call,Siti Nurhaliza,Jakarta,2025-03-29,Closed Won,2025-06-19,2025-01-07,97850000.0,,Needs approval from board
+LD1196,CV Cahaya Abadi,Manufacturing,Cold Call,Andi Wijaya,Jakarta,2024-05-13,Contacted,2024-05-05,2024-06-21,,,Waiting for PO
+LD1197,PT Maju Terus,Healthcare,Referral,,Bandung,2024-03-15,Negotiation,2024-04-25,2024-04-07,143634000.0,,
+LD1198,PT Indo Sukses,Finance,LinkedIn,Rudi Hartono,Jakarta,2024-12-20,Qualified,2025-03-13,2025-03-28,103018000.0,,VIP client
+LD1199,CV Nusantara Jaya,,Referral,Budi Santoso,,2024-11-24,Proposal Sent,2024-12-07,2024-12-22,143529000.0,,Needs approval from board
+LD1200,PT. Indo Sukses,Manufacturing,Website,Ahmad Fauzi,Denpasar,2025-04-15,Negotiation,2025-04-20,,10032000.0,,
+LD1201,PT Central Distribusi,Construction,Referral,Andi Wijaya,Palembang,2024-03-15,Qualified,2024-05-19,2024-05-23,14803000.0,,
+LD1202,PT. Cipta Karya,,Website,Rudi Hartono,Surabaya,2025-07-22,Contacted,2025-07-12,2025-08-02,,,VIP client
+LD1203,PT Cipta Karya,Manufacturing,Email Campaign,Siti Nurhaliza,Bandung,2024-09-15,Contacted,2024-09-10,2024-09-19,,,Follow up next week
+LD1204,CV Delta Solusi,F&B,,Rina Marlina,Medan,2024-05-11,Proposal Sent,2024-11-06,2024-11-05,49032000.0,,Follow up next week
+LD1205,UD Karya Utama,Manufacturing,Referral,Rudi Hartono,Palembang,2024-05-17,Proposal Sent,2024-06-29,2024-05-21,70502000.0,,
+LD1206,PT. Berkah Mandiri,Logistics,Partner,Rudi Hartono,Jakarta,2025-02-18,Negotiation,2025-03-18,2025-03-22,149812000.0,,Needs approval from board
+LD1207,UD Cahaya Abadi,Education,Social Media,Dewi Lestari,Jakarta,2024-06-18,Negotiation,2024-07-06,2024-07-11,28513000.0,,Follow up next week
+LD1208,CV Indo Sukses,Manufacturing,Cold Call,Andi Wijaya,Denpasar,2025-10-04,Closed Won,2025-04-16,2025-04-26,79163000.0,,Follow up next week
+LD1209,UD Mega Trading,Construction,Website,,Surabaya,2025-05-08,Closed Won,2025-05-09,2025-05-18,13409000.0,,Send revised proposal
+LD1210,CV Global Teknindo,Retail,Email Campaign,Ahmad Fauzi,Makassar,2024-06-14,Proposal Sent,2024-06-13,2024-06-16,20927000.0,,Waiting for PO
+LD1211,CV Sejahtera Bersama,Technology,Partner,Andi Wijaya,Jakarta,2025-04-27,Closed Won,2025-05-19,2025-05-21,62793000.0,,
+LD1212,CV Mega Trading,Construction,Website,,Denpasar,2024-06-02,Proposal Sent,2024-06-25,2024-07-05,92983000.0,,
+LD1213,PT. Global Teknindo,Finance,LinkedIn,Budi Santoso,Makassar,2025-01-25,Qualified,2025-04-25,2025-09-02,64972000.0,,Needs approval from board
+LD1214,UD Cipta Karya,Manufacturing,Cold Call,Andi Wijaya,Bandung,2024-04-19,Contacted,2024-07-12,2024-06-08,,,Needs approval from board
+LD1215,CV Tunas Muda,Finance,Referral,Siti Nurhaliza,Surabaya,2025-01-14,Proposal Sent,2025-03-17,2025-03-06,47385000.0,,VIP client
+LD1216,PT Indo Sukses,Finance,Trade Show,Andi Wijaya,Denpasar,2024-01-06,Closed Won,2024-01-25,2024-01-24,40938000.0,,
+LD1217,UD ANUGRAH SENTOSA,,Partner,Budi Santoso,Yogyakarta,2024-01-11,Contacted,2024-04-05,2024-02-09,,,
+LD1219,PT. Berkah Mandiri,Logistics,,Yuni Shara,Denpasar,2024-04-19,Proposal Sent,2024-06-23,2024-07-03,143593000.0,,Send revised proposal
+LD1220,CV Prima Nusantara,Finance,Inbound Call,Rina Marlina,Jakarta,2024-08-23,Closed Won,2024-10-15,2024-09-14,,,Client on vacation
+LD1221,PT Bumi Perkasa,Retail,Inbound Call,,Semarang,2024-07-13,Proposal Sent,2024-08-08,2024-07-13,37824000.0,,VIP client
+LD1222,CV Cahaya Abadi,Retail,Trade Show,Yuni Shara,Yogyakarta,2024-11-18,Proposal Sent,2025-01-31,2025-01-21,137569000.0,,
+LD1223,UD Central Distribusi,Logistics,Cold Call,Rina Marlina,Jakarta,2024-11-19,Negotiation,2024-11-21,2024-12-02,55517000.0,,Client on vacation
+LD1224,CV Central Distribusi,F&B,Referral,Ahmad Fauzi,Semarang,2024-03-07,Proposal Sent,2024-09-15,2024-09-21,121005000.0,,Client on vacation
+LD1225,PT Anugrah Sentosa,Logistics,Social Media,,Jakarta,2025-08-04,Lead In,2025-08-17,2025-08-27,,,Client on vacation
+LD1226,UD Harapan Baru,Construction,LinkedIn,Yuni Shara,Jakarta,2024-01-21,Qualified,2024-03-06,2024-02-29,144541000.0,,
+LD1227,PT. Maju Terus,F&B,Email Campaign,Yuni Shara,Medan,2025-08-08,Qualified,2025-08-18,2025-08-13,98646000.0,,
+LD1228,PT Global Teknindo,Education,Website,,Medan,2024-06-19,Qualified,2024-07-02,2024-06-26,5902000.0,,Waiting for PO
+LD1229,UD Central Distribusi,Finance,,Budi Santoso,Bandung,2024-06-23,Lead In,2024-09-16,,,,VIP client
+LD1231,PT. Indo Sukses,Technology,Website,Ahmad Fauzi,Denpasar,2024-10-01,Negotiation,2024-02-17,2024-02-12,29909000.0,,
+LD1232,UD Sumber Makmur,Manufacturing,Email Campaign,Budi Santoso,Jakarta,2024-10-02,Qualified,2024-10-11,2024-10-11,93424000.0,,Send revised proposal
+LD1233,CV Cahaya Abadi,Logistics,Trade Show,Siti Nurhaliza,Yogyakarta,2024-01-16,Proposal Sent,2024-02-29,2024-01-27,118287000.0,,Waiting for PO
+LD1234,PT. Indo Sukses,Manufacturing,Cold Call,Rina Marlina,Jakarta,2025-01-29,Negotiation,2025-03-27,2025-03-02,149191000.0,,VIP client
+LD1235,UD Delta Solusi,Retail,,Dewi Lestari,Jakarta,2024-07-22,Qualified,2024-07-29,2024-08-09,95671000.0,,Send revised proposal
+LD1236,UD Cahaya Abadi,Finance,Inbound Call,Andi Wijaya,Palembang,2024-09-11,Contacted,2024-09-23,,,,Send revised proposal
+LD1237,PT. Anugrah Sentosa,,Email Campaign,Rina Marlina,Bandung,2025-03-25,Negotiation,2025-03-28,2025-04-08,135002000.0,,
+LD1238,UD TUNAS MUDA,,Inbound Call,Budi Santoso,Medan,2025-06-27,Contacted,2025-08-04,2025-08-07,,,
+LD1239,UD Bumi Perkasa,F&B,Inbound Call,Siti Nurhaliza,Jakarta,2024-03-05,Proposal Sent,2024-05-13,2024-03-27,30101000.0,,Follow up next week
+LD1240,PT Anugrah Sentosa,Manufacturing,,Siti Nurhaliza,Semarang,2025-08-07,Proposal Sent,2025-09-26,2025-08-14,39879000.0,,Needs approval from board
+LD1241,PT Anugrah Sentosa,Technology,Website,Siti Nurhaliza,Palembang,2025-06-25,Lead In,2025-07-05,2025-07-12,,,Follow up next week
+LD1242,CV Cipta Karya,Finance,Cold Call,,Jakarta,2025-07-25,Negotiation,2025-09-17,2025-09-19,101825000.0,,Client on vacation
+LD1244,PT. Maju Terus,Technology,Cold Call,Rina Marlina,Makassar,2024-01-23,Negotiation,2024-04-21,2024-02-21,138029000.0,,Waiting for PO
+LD1245,PT. Mitra Sejahtera,Construction,,Rina Marlina,Bandung,2024-03-20,Negotiation,2024-05-21,2024-05-12,124204000.0,,
+LD1246,CV Sejahtera Bersama,Manufacturing,Referral,Andi Wijaya,Jakarta,2025-01-26,Lead In,2025-04-04,2025-03-17,,,
+LD1247,PT. Karya Utama,Logistics,Social Media,Budi Santoso,Surabaya,2024-10-23,Negotiation,2024-11-11,2024-11-17,9298000.0,,Follow up next week
+LD1248,PT Bumi Perkasa,Technology,Trade Show,Rina Marlina,Bandung,2024-03-14,Contacted,2024-09-05,2024-04-24,,,
+LD1249,CV PRIMA NUSANTARA,Logistics,LinkedIn,Siti Nurhaliza,Bandung,2025-03-28,Proposal Sent,2025-05-24,,123089000.0,,Follow up next week
+LD1250,PT Global Teknindo,,Cold Call,Dewi Lestari,,2025-07-13,Proposal Sent,2025-08-16,2025-08-21,94210000.0,,Send revised proposal
+LD1251,PT Sejahtera Bersama,F&B,Partner,Budi Santoso,Jakarta,2024-10-04,Proposal Sent,2024-12-28,2024-10-29,132744000.0,,Send revised proposal
+LD1252,UD Cahaya Abadi,Education,Trade Show,Budi Santoso,Yogyakarta,2025-06-26,Qualified,2025-08-28,2025-07-24,54083000.0,,Needs approval from board
+LD1253,CV Karya Utama,Construction,LinkedIn,Budi Santoso,Jakarta,2024-08-20,Qualified,2024-11-02,2024-09-07,145640000.0,,
+LD1254,PT. Prima Nusantara,Education,,,Palembang,2025-06-29,Closed Lost,2025-07-15,2025-08-07,6364000.0,Chose competitor,
+LD1255,PT. Maju Terus,F&B,Trade Show,Yuni Shara,Semarang,2025-08-03,Proposal Sent,2025-10-19,2025-08-23,103845000.0,,
+LD1256,CV Nusantara Jaya,Construction,Website,Andi Wijaya,Palembang,2024-08-15,Negotiation,2024-09-10,2024-09-04,147873000.0,,
+LD1257,PT Anugrah Sentosa,Education,Trade Show,Rudi Hartono,,2024-04-21,Qualified,2024-04-27,2024-05-05,38367000.0,,Waiting for PO
+LD1258,PT Sinar Jaya,Manufacturing,LinkedIn,Dewi Lestari,Semarang,2025-04-19,Closed Won,2025-06-16,2025-05-21,76097000.0,,
+LD1259,CV Sejahtera Bersama,F&B,Inbound Call,Andi Wijaya,Jakarta,2025-05-04,Proposal Sent,2025-04-16,2025-10-04,58845000.0,,
+LD1260,PT Mega Trading,Logistics,Website,Yuni Shara,Semarang,2024-07-04,Contacted,2024-07-21,2024-07-04,,,Send revised proposal
+LD1261,CV Cahaya Abadi,Retail,Website,Andi Wijaya,,2025-02-23,Qualified,2025-05-11,2025-05-19,38218000.0,,
+LD1262,UD Cahaya Abadi,Construction,Cold Call,Rina Marlina,Bandung,2025-03-02,Closed Lost,2025-03-23,2025-06-03,92441000.0,,
+LD1263,UD Nusantara Jaya,Retail,Cold Call,Rudi Hartono,Yogyakarta,2024-12-03,Proposal Sent,2025-02-09,2025-02-20,32940000.0,,
+LD1264,CV Mega Trading,Healthcare,Trade Show,Budi Santoso,Bandung,2025-05-19,Closed Won,2025-06-08,2025-07-29,19495000.0,,Follow up next week
+LD1265,PT Sinar Jaya,Logistics,,Rina Marlina,Denpasar,2024-03-10,Qualified,2024-05-14,2024-09-05,51326000.0,,
+LD1266,UD Maju Terus,Retail,Referral,Rudi Hartono,,2025-04-18,Negotiation,2025-06-10,2025-05-31,85612000.0,,VIP client
+LD1267,PT Central Distribusi,Education,Cold Call,Yuni Shara,,2024-07-10,Proposal Sent,2024-08-19,2024-07-23,,,
+LD1268,PT Harapan Baru,Retail,Referral,Dewi Lestari,Palembang,2025-03-30,Proposal Sent,2025-05-31,2025-05-27,73554000.0,,VIP client
+LD1269,CV Anugrah Sentosa,Logistics,Email Campaign,Rina Marlina,,2024-03-30,Qualified,2024-04-05,,5327000.0,,
+LD1270,UD Mega Trading,F&B,Email Campaign,Yuni Shara,Jakarta,2025-07-27,Proposal Sent,2025-08-23,2025-07-28,141605000.0,,
+LD1271,PT. Mega Trading,Manufacturing,Cold Call,Dewi Lestari,Palembang,2025-02-05,Contacted,2025-04-23,,,,Send revised proposal
+LD1272,UD Indo Sukses,Healthcare,Inbound Call,Rina Marlina,,2024-09-04,Qualified,2024-07-06,2024-06-06,115441000.0,,
+LD1273,UD Cipta Karya,Retail,Partner,Ahmad Fauzi,Surabaya,2024-06-23,Qualified,2024-08-07,2024-07-08,20854000.0,,Send revised proposal
+LD1274,PT. Bumi Perkasa,Manufacturing,Social Media,Rina Marlina,Yogyakarta,2025-03-17,Negotiation,2025-05-12,2025-05-12,52646000.0,,Needs approval from board
+LD1275,PT. Cipta Karya,Technology,Partner,Andi Wijaya,Semarang,2024-01-12,Proposal Sent,2025-02-24,2024-12-27,34207000.0,,Client on vacation
+LD1276,PT Cipta Karya,Education,Cold Call,Siti Nurhaliza,,2024-01-04,Proposal Sent,2024-06-19,2024-04-04,45539000.0,,
+LD1277,CV KARYA UTAMA,,Inbound Call,Budi Santoso,Jakarta,2025-01-25,Qualified,2025-02-22,2025-02-25,58920000.0,,
+LD1278,PT. Berkah Mandiri,Retail,Cold Call,Ahmad Fauzi,Yogyakarta,2025-11-03,Proposal Sent,2025-05-09,,83703000.0,,
+LD1279,PT Berkah Mandiri,Manufacturing,LinkedIn,,Denpasar,2025-08-17,Proposal Sent,2025-11-14,2025-11-12,129184000.0,,
+LD1280,UD Delta Solusi,F&B,Inbound Call,Yuni Shara,Makassar,2024-01-12,Qualified,2024-03-18,,54231000.0,,Waiting for PO
+LD1281,PT Mega Trading,Logistics,Partner,Andi Wijaya,Denpasar,2024-10-20,Proposal Sent,2024-11-06,2024-11-12,21616000.0,,Waiting for PO
+LD1282,PT. Berkah Mandiri,Technology,LinkedIn,,Jakarta,2025-06-24,Closed Won,2025-08-07,2025-07-30,123615000.0,,Client on vacation
+LD1283,UD Karya Utama,Logistics,Trade Show,Budi Santoso,Bandung,2024-06-20,Qualified,2024-08-20,2024-08-07,80813000.0,,VIP client
+LD1284,PT. Berkah Mandiri,Healthcare,Partner,Dewi Lestari,Yogyakarta,2024-12-28,Closed Lost,2025-02-22,2025-01-20,98506000.0,Price too high,
+LD1285,UD Global Teknindo,Retail,Website,Andi Wijaya,Jakarta,2025-06-21,Contacted,2025-08-18,2025-07-18,,,
+LD1286,PT Tunas Muda,Manufacturing,Cold Call,Ahmad Fauzi,Palembang,2024-05-13,Qualified,2024-04-08,2024-08-19,104957000.0,,Waiting for PO
+LD1287,PT. Bumi Perkasa,Retail,,Ahmad Fauzi,Surabaya,2025-01-26,Qualified,2025-02-03,,122295000.0,,Send revised proposal
+LD1288,PT Central Distribusi,Manufacturing,Inbound Call,Budi Santoso,Jakarta,2024-03-15,Lead In,2024-04-17,2024-04-08,,,Client on vacation
+LD1289,PT. Bumi Perkasa,Education,Cold Call,Rina Marlina,Denpasar,2025-05-17,Qualified,2025-07-08,,117579000.0,,
+LD1290,CV Prima Nusantara,Healthcare,Website,,Palembang,2025-04-15,Negotiation,2025-05-23,,,,Send revised proposal
+LD1291,PT. Mitra Sejahtera,Finance,Inbound Call,Rudi Hartono,Semarang,2024-07-16,Lead In,2024-09-30,2024-09-11,,,
+LD1292,PT. Cipta Karya,Retail,Partner,Dewi Lestari,Jakarta,2025-02-19,Contacted,2025-05-14,,,,
+LD1293,PT Bumi Perkasa,Manufacturing,,Andi Wijaya,Surabaya,2024-09-05,Negotiation,2024-09-04,2024-09-17,135890000.0,,Needs approval from board
+LD1294,UD Cipta Karya,F&B,Referral,Andi Wijaya,Jakarta,2024-11-25,Closed Won,2024-12-23,2024-12-01,89777000.0,,
+LD1295,UD Nusantara Jaya,F&B,,Yuni Shara,Palembang,2024-03-23,Lead In,2024-04-15,,,,Waiting for PO
+LD1296,CV Anugrah Sentosa,Healthcare,Email Campaign,Siti Nurhaliza,Makassar,2024-06-27,Proposal Sent,2024-02-07,2024-07-14,15027000.0,,Send revised proposal
+LD1297,PT. Central Distribusi,Manufacturing,Inbound Call,Budi Santoso,Jakarta,2024-07-17,Contacted,2024-08-06,2024-08-09,,,Needs approval from board
+LD1298,UD Nusantara Jaya,Manufacturing,Inbound Call,Rina Marlina,Surabaya,2024-04-16,Negotiation,2024-06-24,2024-05-27,118253000.0,,Follow up next week
+LD1299,CV Maju Terus,Retail,Referral,Rina Marlina,Jakarta,2024-03-16,Qualified,2024-05-18,,66508000.0,,
+LD1300,UD Mega Trading,F&B,,,Makassar,2025-03-04,Contacted,2025-04-17,2025-04-09,,,Follow up next week
+LD1301,CV Delta Solusi,Logistics,Trade Show,Budi Santoso,Jakarta,2025-08-28,Qualified,2025-10-27,,38505000.0,,VIP client
+LD1302,PT. Anugrah Sentosa,Manufacturing,Cold Call,Dewi Lestari,Denpasar,2025-05-22,Contacted,2025-08-02,2025-05-24,,,Waiting for PO
+LD1303,PT Mitra Sejahtera,Retail,LinkedIn,Rina Marlina,Yogyakarta,2024-01-25,Closed Lost,2024-03-25,2024-03-02,118899000.0,Project cancelled,
+LD1304,UD Maju Terus,,Email Campaign,Siti Nurhaliza,Yogyakarta,2024-12-09,Negotiation,2024-12-17,,9631000.0,,Client on vacation
+LD1305,PT Mitra Sejahtera,Finance,Social Media,Yuni Shara,Yogyakarta,2025-08-17,Closed Won,2025-11-15,2025-09-01,54201000.0,,VIP client
+LD1306,PT. Sinar Jaya,Education,Website,Siti Nurhaliza,Jakarta,2025-01-11,Negotiation,2025-04-10,2025-01-25,134002000.0,,Send revised proposal
+LD1307,CV Harapan Baru,Manufacturing,Trade Show,Andi Wijaya,Bandung,2024-10-27,Qualified,2025-01-23,2025-01-17,21540000.0,,Send revised proposal
+LD1308,PT Karya Utama,F&B,Social Media,Andi Wijaya,Makassar,2025-04-13,Qualified,2025-04-30,2025-05-01,35564000.0,,
+LD1309,PT. Global Teknindo,Retail,Referral,Budi Santoso,Palembang,2024-04-29,Lead In,2024-06-09,2024-06-10,,,Client on vacation
+LD1310,UD Prima Nusantara,F&B,Cold Call,Andi Wijaya,Denpasar,2025-06-30,Qualified,2025-07-04,2025-07-18,69790000.0,,Send revised proposal
+LD1311,CV Delta Solusi,Retail,,Rudi Hartono,Surabaya,2024-05-22,Proposal Sent,2024-06-06,2024-05-24,61441000.0,,Send revised proposal
+LD1312,PT. MAJU TERUS,Logistics,Cold Call,Rina Marlina,Bandung,2024-07-18,Proposal Sent,2024-10-04,,141624000.0,,Send revised proposal
+LD1313,PT. Karya Utama,Technology,Partner,Siti Nurhaliza,Jakarta,2024-10-22,Contacted,2024-12-16,2024-11-29,,,VIP client
+LD1314,PT. Sinar Jaya,F&B,LinkedIn,Andi Wijaya,,2024-03-31,Lead In,2024-06-21,2024-04-25,,,Needs approval from board
+LD1315,PT. Bumi Perkasa,Logistics,Cold Call,Ahmad Fauzi,Jakarta,2025-08-22,Qualified,2025-11-02,2025-11-12,24796000.0,,
+LD1316,PT Global Teknindo,Logistics,Website,Andi Wijaya,Bandung,2025-05-01,Proposal Sent,2025-03-19,,40171000.0,,
+LD1317,PT Harapan Baru,Manufacturing,Inbound Call,Andi Wijaya,,2024-12-30,Lead In,2025-06-02,2025-06-02,,,VIP client
+LD1318,CV Sumber Makmur,Logistics,Cold Call,Rina Marlina,,2025-01-06,Lead In,2025-03-22,2025-02-27,,,
+LD1319,PT Karya Utama,,Social Media,Rina Marlina,Bandung,2024-07-11,Negotiation,2024-09-21,,125050000.0,,Send revised proposal
+LD1320,CV Karya Utama,F&B,Referral,Dewi Lestari,Bandung,2024-12-16,Contacted,2024-12-14,,,,
+LD1321,PT Mitra Sejahtera,Manufacturing,Website,Siti Nurhaliza,,2024-01-20,Negotiation,2024-03-16,2024-02-15,17957000.0,,Follow up next week
+LD1322,PT Harapan Baru,Finance,Referral,Rudi Hartono,Jakarta,2024-05-29,Closed Won,2024-07-04,2024-05-29,53480000.0,,
+LD1323,CV Maju Terus,Technology,Trade Show,Dewi Lestari,Yogyakarta,2025-08-26,Contacted,2025-11-21,,,,Client on vacation
+LD1324,PT. Bumi Perkasa,Education,Social Media,Andi Wijaya,Palembang,2024-05-19,Proposal Sent,2024-05-07,2024-07-01,,,Send revised proposal
+LD1325,PT Indo Sukses,Manufacturing,Inbound Call,,Jakarta,2024-07-12,Closed Won,2024-09-11,2024-07-30,,,
+LD1326,UD Indo Sukses,Logistics,Inbound Call,Andi Wijaya,Medan,2024-07-22,Qualified,2024-10-07,2024-09-25,64856000.0,,Send revised proposal
+LD1327,CV Prima Nusantara,Finance,Website,Siti Nurhaliza,Denpasar,2024-08-24,Proposal Sent,2024-08-23,2024-09-24,124886000.0,,Follow up next week
+LD1328,PT Indo Sukses,Logistics,,Ahmad Fauzi,Semarang,2024-09-24,Proposal Sent,2024-12-03,,,,VIP client
+LD1329,PT Indo Sukses,Manufacturing,Partner,Ahmad Fauzi,Makassar,2025-05-18,Qualified,2025-06-27,2025-06-09,101904000.0,,Waiting for PO
+LD1330,UD Maju Terus,Technology,Website,,Surabaya,2024-05-11,Closed Won,2024-06-25,2024-05-26,94523000.0,,
+LD1331,PT. Nusantara Jaya,,Trade Show,Rudi Hartono,Jakarta,2024-12-11,Contacted,2025-02-18,2025-02-09,,,Client on vacation
+LD1332,PT. Anugrah Sentosa,Finance,,Siti Nurhaliza,,2024-04-10,Closed Won,2024-04-23,2024-04-16,122096000.0,,
+LD1333,PT Prima Nusantara,Finance,Cold Call,Ahmad Fauzi,Denpasar,2024-04-04,Negotiation,2024-06-18,2024-05-14,120575000.0,,Needs approval from board
+LD1334,PT. Delta Solusi,Healthcare,Website,Budi Santoso,Surabaya,2024-03-07,Closed Won,2024-09-22,,33517000.0,,
+LD1335,PT. Berkah Mandiri,Education,Referral,Budi Santoso,Surabaya,2025-02-24,Qualified,2025-03-05,2025-03-10,127203000.0,,Needs approval from board
+LD1336,UD Cipta Karya,Logistics,,Budi Santoso,Palembang,2024-06-10,Contacted,2024-11-09,,,,
+LD1337,PT Harapan Baru,Logistics,Partner,Budi Santoso,Bandung,2025-02-20,Closed Won,2025-05-17,2025-03-03,15365000.0,,
+LD1338,PT Central Distribusi,Finance,LinkedIn,Siti Nurhaliza,Bandung,2025-02-03,Closed Won,2025-06-03,2025-03-02,33688000.0,,Follow up next week
+LD1339,CV Global Teknindo,Healthcare,Cold Call,,Palembang,2025-01-11,Closed Won,2025-01-14,2025-01-14,135974000.0,,Follow up next week
+LD1340,PT. Cahaya Abadi,,Website,Yuni Shara,Semarang,2024-09-18,Qualified,2024-10-19,2024-10-14,66949000.0,,Client on vacation
+LD1342,CV Mega Trading,Logistics,,Rina Marlina,Semarang,2025-12-08,Lead In,2025-09-02,2025-08-20,,,
+LD1343,CV Mitra Sejahtera,F&B,Referral,Rudi Hartono,Palembang,2025-02-28,Qualified,2025-04-20,2025-06-03,141824000.0,,Needs approval from board
+LD1344,CV Global Teknindo,Construction,Social Media,Ahmad Fauzi,Jakarta,2024-06-23,Closed Lost,2024-06-14,2024-07-06,69149000.0,Project cancelled,Follow up next week
+LD1345,PT. Karya Utama,Technology,LinkedIn,Ahmad Fauzi,Denpasar,2024-10-24,Closed Lost,2024-11-24,2024-12-08,103272000.0,,
+LD1346,PT. Prima Nusantara,Finance,Inbound Call,Rina Marlina,Jakarta,2024-02-23,Qualified,2024-03-25,2024-02-25,54437000.0,,Waiting for PO
+LD1347,UD Bumi Perkasa,Education,Referral,Yuni Shara,,2024-05-15,Lead In,2024-07-22,2024-06-30,,,Waiting for PO
+LD1348,CV Cahaya Abadi,F&B,Website,Yuni Shara,Bandung,2025-06-13,Qualified,2025-07-05,2025-07-12,24387000.0,,Send revised proposal
+LD1349,CV Delta Solusi,Retail,Website,Budi Santoso,,2025-04-13,Proposal Sent,2025-05-02,2025-04-24,15850000.0,,
+LD1350,PT. Tunas Muda,Retail,Cold Call,Andi Wijaya,Denpasar,2024-01-27,Qualified,2024-04-24,2024-03-09,17698000.0,,
+LD1351,UD Sinar Jaya,Retail,,Ahmad Fauzi,Jakarta,2024-08-04,Closed Won,2024-10-26,2024-08-30,82979000.0,,Needs approval from board
+LD1352,PT. Central Distribusi,Construction,Partner,Ahmad Fauzi,Jakarta,2025-05-17,Closed Won,2025-06-26,2025-07-07,16225000.0,,
+LD1353,PT. Prima Nusantara,Technology,Referral,,Bandung,2025-06-09,Qualified,2025-08-08,2025-08-14,97846000.0,,
+LD1354,PT Bumi Perkasa,F&B,Social Media,Andi Wijaya,,2024-04-20,Proposal Sent,2024-12-06,,39500000.0,,Needs approval from board
+LD1355,UD Bumi Perkasa,Manufacturing,Website,Budi Santoso,Medan,2025-08-24,Negotiation,2025-11-18,2025-08-25,121559000.0,,Send revised proposal
+LD1356,CV Sumber Makmur,Technology,,Budi Santoso,Palembang,2024-11-06,Proposal Sent,2025-01-24,2024-11-09,60460000.0,,
+LD1357,PT. Delta Solusi,Construction,Cold Call,Andi Wijaya,,2024-03-29,Qualified,2024-05-28,2024-04-04,135557000.0,,
+LD1358,PT Nusantara Jaya,Manufacturing,Email Campaign,Siti Nurhaliza,Bandung,2025-08-15,Proposal Sent,2025-10-25,2025-10-07,77977000.0,,
+LD1359,PT. Berkah Mandiri,Retail,Partner,,Bandung,2024-01-22,Contacted,2024-02-16,,,,Waiting for PO
+LD1360,PT. Bumi Perkasa,Technology,Social Media,Rudi Hartono,Surabaya,2025-03-01,Negotiation,2025-01-24,,43804000.0,,
+LD1361,PT Sejahtera Bersama,Finance,Partner,Dewi Lestari,Jakarta,2024-06-11,Contacted,2024-08-15,2024-09-07,,,Client on vacation
+LD1362,PT Mega Trading,Finance,,Siti Nurhaliza,,2024-06-03,Closed Won,2024-08-08,2024-06-08,142048000.0,,
+LD1363,PT. Sumber Makmur,Education,,Yuni Shara,Bandung,2024-10-26,Negotiation,2024-12-30,2024-12-29,130833000.0,,Waiting for PO
+LD1364,UD Sumber Makmur,Finance,,Budi Santoso,Palembang,2024-06-04,Negotiation,2024-08-11,,63185000.0,,Client on vacation
+LD1365,UD Sejahtera Bersama,Retail,Website,Rudi Hartono,Yogyakarta,2024-03-03,Qualified,2024-03-08,2024-03-07,10556000.0,,Send revised proposal
+LD1366,CV Harapan Baru,Finance,Cold Call,Dewi Lestari,Jakarta,2025-03-28,Negotiation,2025-06-20,2025-06-06,7472000.0,,Client on vacation
+LD1367,UD BUMI PERKASA,Education,Inbound Call,Siti Nurhaliza,Semarang,2025-07-06,Proposal Sent,2025-08-06,2025-08-11,46983000.0,,Send revised proposal
+LD1368,CV Bumi Perkasa,Healthcare,Partner,Dewi Lestari,,2025-06-30,Closed Won,2025-07-30,,44111000.0,,Needs approval from board
+LD1369,PT. Tunas Muda,F&B,Social Media,Ahmad Fauzi,,2024-03-04,Qualified,2024-03-21,2024-03-13,79886000.0,,Send revised proposal
+LD1370,PT Maju Terus,Manufacturing,Website,Budi Santoso,Jakarta,2024-04-30,Negotiation,2024-06-28,2024-06-16,112481000.0,,Client on vacation
+LD1371,UD Mitra Sejahtera,Education,Trade Show,Yuni Shara,Makassar,2024-05-25,Negotiation,2024-07-18,2024-07-21,33906000.0,,Needs approval from board
+LD1372,UD CIPTA KARYA,Education,Inbound Call,Yuni Shara,Palembang,2025-05-31,Proposal Sent,2025-07-28,2025-06-11,15219000.0,,
+LD1373,PT Delta Solusi,Retail,,Yuni Shara,Yogyakarta,2025-07-26,Lead In,2025-10-14,2025-08-10,,,VIP client
+LD1374,UD Nusantara Jaya,Construction,Website,Budi Santoso,Bandung,2024-08-09,Closed Won,2024-11-22,,121424000.0,,
+LD1375,PT. Sinar Jaya,,Cold Call,Andi Wijaya,Jakarta,2024-07-06,Contacted,2024-07-18,2024-07-07,,,
+LD1376,UD Tunas Muda,Construction,Website,Yuni Shara,Jakarta,2025-01-19,Closed Lost,2025-02-04,2025-02-02,37001000.0,Price too high,Waiting for PO
+LD1377,CV Berkah Mandiri,Retail,Trade Show,Budi Santoso,Semarang,2025-07-22,Proposal Sent,2025-08-08,2025-07-22,62198000.0,,
+LD1378,PT. Maju Terus,Finance,Referral,Andi Wijaya,,2025-08-05,Contacted,2025-06-10,,,,VIP client
+LD1379,UD Tunas Muda,Technology,Inbound Call,Rina Marlina,Bandung,2025-02-08,Negotiation,2025-02-26,2025-03-09,33206000.0,,Client on vacation
+LD1380,PT. Cipta Karya,Construction,LinkedIn,Yuni Shara,,2025-05-02,Lead In,2025-05-04,,,,
+LD1381,CV TUNAS MUDA,Education,LinkedIn,Budi Santoso,,2024-12-27,Closed Lost,2025-02-14,2025-02-10,54979000.0,Project cancelled,Follow up next week
+LD1382,CV Delta Solusi,Manufacturing,Partner,Andi Wijaya,Jakarta,2024-10-14,Proposal Sent,2024-12-31,,60621000.0,,
+LD1383,PT Nusantara Jaya,Healthcare,Inbound Call,Budi Santoso,,2025-06-19,Negotiation,2025-07-25,2025-07-16,104562000.0,,Needs approval from board
+LD1384,UD Mitra Sejahtera,Technology,,Budi Santoso,Palembang,2025-05-01,Proposal Sent,2025-11-01,2025-01-18,64169000.0,,Follow up next week
+LD1385,UD Global Teknindo,Retail,Social Media,Dewi Lestari,Bandung,2024-04-09,Lead In,2024-06-04,2024-05-21,,,Follow up next week
+LD1386,PT. Cahaya Abadi,Manufacturing,Inbound Call,Ahmad Fauzi,Jakarta,2024-04-07,Proposal Sent,2024-06-21,,146230000.0,,
+LD1387,PT Sejahtera Bersama,Finance,Inbound Call,Budi Santoso,Semarang,2024-04-08,Proposal Sent,2024-05-31,2024-05-20,3570000.0,,
+LD1388,PT Cahaya Abadi,Manufacturing,Partner,Ahmad Fauzi,Yogyakarta,2024-07-17,Closed Won,2024-08-03,2024-08-08,109244000.0,,VIP client
+LD1389,CV Anugrah Sentosa,Logistics,Cold Call,Dewi Lestari,Denpasar,2024-12-17,Qualified,2024-12-19,2024-12-31,99336000.0,,Client on vacation
+LD1390,PT. Mega Trading,,Social Media,Rina Marlina,,2024-11-02,Qualified,2024-11-23,2024-11-26,131664000.0,,
+LD1391,PT Anugrah Sentosa,,Referral,Dewi Lestari,Bandung,2024-03-16,Qualified,2024-05-27,2024-04-07,88682000.0,,VIP client
+LD1392,CV Maju Terus,Retail,Inbound Call,Andi Wijaya,Yogyakarta,2024-09-25,Closed Won,2024-09-28,2024-10-08,132982000.0,,
+LD1393,CV Sejahtera Bersama,F&B,Inbound Call,Rudi Hartono,,2025-06-29,Qualified,2025-08-16,2025-08-30,65572000.0,,
+LD1394,PT. Central Distribusi,Retail,Trade Show,,,2025-06-04,Qualified,2025-08-26,,28492000.0,,Follow up next week
+LD1395,CV Maju Terus,Manufacturing,Website,Andi Wijaya,,2025-02-09,Contacted,2025-04-05,2025-03-18,,,Client on vacation
+LD1396,PT Maju Terus,Finance,Cold Call,Budi Santoso,Yogyakarta,2024-12-10,Qualified,2025-08-02,2024-12-20,56392000.0,,Follow up next week
+LD1397,UD Prima Nusantara,Education,,,,2025-07-13,Contacted,2025-08-08,2025-07-25,,,
+LD1398,CV Indo Sukses,Technology,LinkedIn,Dewi Lestari,Semarang,2024-11-02,Qualified,2024-12-17,2024-12-05,61764000.0,,VIP client
+LD1399,CV Prima Nusantara,Manufacturing,Website,Yuni Shara,,2024-11-16,Closed Won,2025-01-10,2024-12-31,105295000.0,,Needs approval from board
+LD1400,PT. Indo Sukses,Construction,Trade Show,Siti Nurhaliza,Yogyakarta,2024-11-29,Proposal Sent,2025-10-02,2024-12-23,142990000.0,,Client on vacation
+LD1401,PT. Sumber Makmur,Technology,Website,Ahmad Fauzi,Bandung,2024-06-24,Contacted,2024-03-09,2024-07-23,,,VIP client
+LD1402,PT Karya Utama,Technology,Social Media,Siti Nurhaliza,Medan,2024-01-12,Contacted,2024-03-05,2024-01-28,,,Waiting for PO
+LD1403,CV Harapan Baru,Logistics,Partner,Yuni Shara,Semarang,2025-08-11,Closed Lost,2025-10-26,,108082000.0,Chose competitor,Waiting for PO
+LD1404,PT Indo Sukses,F&B,Website,Dewi Lestari,,2024-10-31,Qualified,2024-11-23,2024-11-17,65947000.0,,VIP client
+LD1405,CV HARAPAN BARU,,Website,Siti Nurhaliza,Denpasar,2025-02-25,Closed Lost,2025-05-07,2025-05-22,76650000.0,,Client on vacation
+LD1406,PT. Central Distribusi,Technology,Website,Budi Santoso,Denpasar,2024-01-11,Contacted,2024-01-29,,,,Waiting for PO
+LD1407,PT. Sinar Jaya,Education,,Budi Santoso,Denpasar,2024-04-12,Contacted,2024-04-28,2024-04-21,,,
+LD1408,PT Cahaya Abadi,Healthcare,,Dewi Lestari,Surabaya,2025-03-28,Negotiation,2025-06-18,2025-04-27,134757000.0,,
+LD1409,CV SINAR JAYA,Healthcare,Email Campaign,Siti Nurhaliza,,2024-03-05,Contacted,2024-03-18,2024-03-15,,,Follow up next week
+LD1410,CV Sumber Makmur,Technology,Cold Call,Budi Santoso,Medan,2024-03-05,Contacted,2024-05-17,2024-05-17,,,Waiting for PO
+LD1411,UD Indo Sukses,F&B,,Andi Wijaya,Bandung,2024-08-11,Qualified,2024-10-27,2024-10-31,148590000.0,,Client on vacation
+LD1412,PT Prima Nusantara,Manufacturing,Trade Show,Dewi Lestari,Makassar,2024-01-19,Proposal Sent,2024-04-03,,77632000.0,,Send revised proposal
+LD1413,PT Harapan Baru,Education,Trade Show,,,2024-07-28,Proposal Sent,2024-08-28,2024-07-29,111410000.0,,Client on vacation
+LD1414,PT. Mitra Sejahtera,Technology,Website,,Jakarta,2024-09-11,Closed Won,2024-12-10,,49602000.0,,
+LD1415,CV Berkah Mandiri,Education,Partner,Dewi Lestari,Bandung,2025-06-03,Lead In,2025-08-02,2025-08-15,,,Follow up next week
+LD1416,PT. Nusantara Jaya,Finance,,Rudi Hartono,Makassar,2025-02-11,Qualified,2025-04-13,2025-03-02,114528000.0,,
+LD1417,UD Central Distribusi,Healthcare,Trade Show,Ahmad Fauzi,Palembang,2024-10-17,Qualified,2025-01-03,2024-12-05,51319000.0,,
+LD1418,UD Harapan Baru,Retail,Inbound Call,Rina Marlina,Palembang,2025-08-02,Contacted,2025-09-27,2025-09-20,,,Follow up next week
+LD1419,CV Global Teknindo,F&B,Partner,,,2024-05-31,Contacted,2024-07-29,,,,
+LD1420,PT. Delta Solusi,Manufacturing,Trade Show,Siti Nurhaliza,Jakarta,2025-08-23,Closed Lost,2025-09-03,2025-10-09,124803000.0,Timing not right,
+LD1421,UD Sinar Jaya,Finance,Referral,Yuni Shara,Jakarta,2024-01-07,Closed Lost,2024-01-05,2024-01-21,63693000.0,No response,
+LD1422,CV Central Distribusi,Retail,,Siti Nurhaliza,Jakarta,2025-02-22,Qualified,2025-05-13,2025-03-28,96192000.0,,
+LD1423,UD Maju Terus,Technology,Cold Call,Rina Marlina,,2025-06-18,Negotiation,2025-06-08,2025-08-03,139955000.0,,Needs approval from board
+LD1425,PT. Bumi Perkasa,,Cold Call,Andi Wijaya,Surabaya,2024-02-16,Closed Lost,2024-03-29,2024-02-25,36567000.0,,
+LD1426,PT. Cipta Karya,Manufacturing,Referral,Andi Wijaya,,2025-04-23,Contacted,2025-06-20,,,,
+LD1427,PT Karya Utama,,Inbound Call,Yuni Shara,Jakarta,2024-10-14,Contacted,2024-11-16,2024-04-11,,,
+LD1428,PT Bumi Perkasa,,LinkedIn,Andi Wijaya,Surabaya,2025-01-21,Closed Won,2025-03-11,2025-02-04,118192000.0,,
+LD1429,PT. Nusantara Jaya,F&B,Cold Call,,,2024-11-14,Lead In,2025-01-22,2025-01-19,,,
+LD1430,PT Mega Trading,,Email Campaign,Siti Nurhaliza,Bandung,2025-04-16,Qualified,2025-05-24,2025-05-22,75975000.0,,Follow up next week
+LD1431,UD Sinar Jaya,Construction,Email Campaign,Ahmad Fauzi,Bandung,2024-06-05,Closed Won,2024-02-07,2024-05-07,140296000.0,,Needs approval from board
+LD1432,PT. Sinar Jaya,F&B,Social Media,Yuni Shara,Bandung,2024-07-18,Negotiation,2024-09-27,2024-08-13,21373000.0,,Follow up next week
+LD1433,PT. Sinar Jaya,Healthcare,Website,Budi Santoso,Denpasar,2024-04-14,Proposal Sent,2024-05-03,2024-05-11,147440000.0,,Needs approval from board
+LD1434,PT. Global Teknindo,Manufacturing,Social Media,Rina Marlina,Jakarta,2025-05-15,Qualified,2025-07-31,,98614000.0,,Send revised proposal
+LD1435,PT. Prima Nusantara,,Website,Rina Marlina,Jakarta,2024-01-24,Proposal Sent,2024-04-07,2024-04-01,89746000.0,,
+LD1436,CV Mega Trading,Healthcare,Website,Budi Santoso,Semarang,2024-03-06,Proposal Sent,2024-05-20,,123186000.0,,
+LD1437,PT Harapan Baru,Manufacturing,Email Campaign,Andi Wijaya,Medan,2025-07-29,Contacted,2025-03-08,2025-07-29,,,
+LD1438,UD Mega Trading,Retail,Referral,Siti Nurhaliza,Denpasar,2025-03-31,Contacted,2025-06-02,,,,
+LD1439,PT. Mitra Sejahtera,F&B,Cold Call,Ahmad Fauzi,Denpasar,2025-07-19,Contacted,2025-09-03,2025-08-13,,,Waiting for PO
+LD1440,PT. INDO SUKSES,Education,Partner,Dewi Lestari,Jakarta,2024-03-13,Proposal Sent,2024-04-17,2024-03-20,105127000.0,,VIP client
+LD1441,CV Indo Sukses,Finance,,Siti Nurhaliza,Jakarta,2024-07-12,Negotiation,2024-12-26,2024-12-26,,,Send revised proposal
+LD1442,CV Sejahtera Bersama,,Trade Show,Andi Wijaya,Bandung,2025-07-18,Contacted,2025-07-31,2025-08-08,,,VIP client
+LD1443,CV Karya Utama,,Partner,Rudi Hartono,Jakarta,2024-05-10,Contacted,2024-08-06,2024-07-30,,,Follow up next week
+LD1444,UD Nusantara Jaya,Manufacturing,,Siti Nurhaliza,Denpasar,2025-03-25,Closed Lost,2025-05-24,2025-04-03,42822000.0,Chose competitor,
+LD1445,PT INDO SUKSES,Construction,Referral,Budi Santoso,Palembang,2025-05-19,Closed Won,2025-05-21,2025-06-05,110158000.0,,Follow up next week
+LD1446,PT Nusantara Jaya,Healthcare,Referral,Rina Marlina,Jakarta,2025-04-04,Closed Lost,2025-06-30,2025-06-29,27873000.0,,
+LD1447,CV Prima Nusantara,Retail,Inbound Call,Budi Santoso,,2024-08-06,Lead In,2024-10-26,2024-10-04,,,Send revised proposal
+LD1448,PT. Anugrah Sentosa,Manufacturing,Email Campaign,Andi Wijaya,Medan,2024-02-12,Qualified,2024-11-29,2024-12-31,,,
+LD1449,CV Maju Terus,,Website,Rina Marlina,,2025-02-08,Qualified,2025-03-27,,18087000.0,,Waiting for PO
+LD1450,CV Sejahtera Bersama,,,Ahmad Fauzi,Yogyakarta,2024-12-05,Closed Won,2024-12-26,,142360000.0,,
+LD1451,PT. Mitra Sejahtera,,Referral,Andi Wijaya,Jakarta,2024-12-18,Proposal Sent,2025-03-16,2025-02-21,102390000.0,,Waiting for PO
+LD1452,PT Global Teknindo,Retail,Referral,Ahmad Fauzi,Jakarta,2024-07-22,Qualified,2024-05-08,,76345000.0,,
+LD1453,PT. Cahaya Abadi,Healthcare,Cold Call,Rina Marlina,Bandung,2024-08-24,Contacted,2024-10-18,2024-10-16,,,
+LD1454,PT Cipta Karya,,Referral,Rina Marlina,Bandung,2024-05-08,Qualified,2024-09-10,2024-09-25,142353000.0,,
+LD1455,PT Mitra Sejahtera,,Partner,Rina Marlina,Bandung,2024-08-03,Proposal Sent,2024-08-15,2024-08-18,21312000.0,,Follow up next week
+LD1456,PT Nusantara Jaya,Retail,Trade Show,Budi Santoso,Yogyakarta,2024-07-15,Qualified,2024-08-17,2024-07-25,84931000.0,,
+LD1457,UD Anugrah Sentosa,Retail,Referral,Andi Wijaya,Surabaya,2025-02-11,Proposal Sent,2025-04-21,2025-12-02,113108000.0,,VIP client
+LD1458,UD Karya Utama,Technology,,Budi Santoso,Denpasar,2024-08-13,Qualified,2024-09-17,2024-08-26,27324000.0,,
+LD1459,UD Berkah Mandiri,Retail,Cold Call,Andi Wijaya,Bandung,2024-03-26,Closed Lost,2024-06-05,2024-06-02,21775000.0,Chose competitor,Needs approval from board
+LD1460,PT. Maju Terus,F&B,Social Media,Siti Nurhaliza,Semarang,2024-07-30,Closed Won,2024-08-28,2024-08-28,129017000.0,,
+LD1461,PT. Bumi Perkasa,Manufacturing,Referral,Budi Santoso,Makassar,2024-01-22,Qualified,2024-02-14,2024-02-15,23241000.0,,
+LD1462,PT Bumi Perkasa,,,Rina Marlina,,2024-03-26,Contacted,2024-06-15,2024-05-04,,,Send revised proposal
+LD1463,PT. KARYA UTAMA,Construction,Referral,Budi Santoso,Surabaya,2024-12-05,Qualified,2025-01-06,,104422000.0,,Waiting for PO
+LD1464,UD Maju Terus,Manufacturing,Cold Call,Siti Nurhaliza,Bandung,2025-05-18,Contacted,2025-02-06,,,,
+LD1465,UD Global Teknindo,Retail,LinkedIn,Siti Nurhaliza,,2024-07-04,Proposal Sent,2024-07-24,2024-07-13,103700000.0,,
+LD1466,UD Karya Utama,Construction,Referral,Andi Wijaya,,2024-03-09,Contacted,2024-05-03,2024-04-23,,,Needs approval from board
+LD1467,PT. Mitra Sejahtera,,Trade Show,Budi Santoso,Makassar,2024-05-21,Closed Won,2024-08-13,2024-08-24,81735000.0,,
+LD1468,PT. Berkah Mandiri,F&B,Referral,Budi Santoso,Palembang,2025-01-06,Proposal Sent,2025-01-24,2025-01-13,10817000.0,,
+LD1469,PT Sumber Makmur,F&B,,Ahmad Fauzi,Jakarta,2024-02-25,Negotiation,2024-05-20,2024-04-25,72570000.0,,VIP client
+LD1470,CV Sumber Makmur,Finance,Trade Show,,Semarang,2024-12-11,Qualified,2025-03-04,2025-03-12,44442000.0,,
+LD1471,PT Tunas Muda,Construction,Inbound Call,,Medan,2024-10-05,Closed Lost,2024-12-11,,142759000.0,Timing not right,Needs approval from board
+LD1472,CV Cahaya Abadi,Retail,Website,Andi Wijaya,Makassar,2024-03-20,Qualified,2024-03-15,2024-04-25,26089000.0,,Send revised proposal
+LD1473,PT Sejahtera Bersama,Finance,LinkedIn,Budi Santoso,Jakarta,2024-01-09,Closed Lost,2024-02-15,2024-02-29,59815000.0,Price too high,
+LD1474,PT Berkah Mandiri,F&B,,,Denpasar,2024-10-24,Contacted,2025-01-20,2025-01-30,,,VIP client
+LD1475,PT Karya Utama,Retail,Social Media,Siti Nurhaliza,,2025-04-03,Negotiation,2025-05-17,2025-04-12,7922000.0,,Waiting for PO
+LD1476,PT. Global Teknindo,Manufacturing,Social Media,,Jakarta,2025-04-10,Qualified,2025-05-18,2025-05-16,43457000.0,,Client on vacation
+LD1477,PT Mega Trading,Finance,Website,Dewi Lestari,Palembang,2024-05-12,Qualified,2024-07-17,2024-05-13,102966000.0,,
+LD1478,UD Tunas Muda,Manufacturing,Email Campaign,Yuni Shara,Jakarta,2024-03-15,Contacted,2024-05-14,2024-07-04,,,Needs approval from board
+LD1479,CV Anugrah Sentosa,Construction,Website,Andi Wijaya,,2024-03-07,Qualified,2024-05-24,2024-03-14,105939000.0,,Client on vacation
+LD1480,PT. Nusantara Jaya,Retail,Inbound Call,Rudi Hartono,Jakarta,2024-04-08,Closed Won,2024-10-31,2024-08-15,22977000.0,,Needs approval from board
+LD1481,PT Cipta Karya,,Partner,Dewi Lestari,Jakarta,2024-12-23,Closed Lost,2025-02-23,2025-03-07,105110000.0,Timing not right,Client on vacation
+LD1482,PT Tunas Muda,Logistics,,Andi Wijaya,Denpasar,2024-11-20,Contacted,2025-02-15,2025-02-09,,,
+LD1483,UD Prima Nusantara,Logistics,,Siti Nurhaliza,Palembang,2024-06-19,Proposal Sent,2024-07-17,2024-07-30,142952000.0,,Needs approval from board
+LD1484,PT. Prima Nusantara,Manufacturing,,Siti Nurhaliza,Jakarta,2025-06-19,Closed Lost,2025-08-01,2025-06-24,28020000.0,,
+LD1485,PT Maju Terus,Manufacturing,Social Media,Ahmad Fauzi,,2025-03-30,Proposal Sent,2025-04-04,,116978000.0,,Client on vacation
+LD1486,PT Sumber Makmur,,Cold Call,Budi Santoso,,2024-10-01,Closed Won,2024-11-04,2024-11-08,135596000.0,,
+LD1487,PT Delta Solusi,F&B,Inbound Call,Ahmad Fauzi,Palembang,2025-02-04,Contacted,2025-04-28,2025-03-27,,,VIP client
+LD1488,UD Cipta Karya,Manufacturing,Cold Call,Dewi Lestari,Jakarta,2025-05-31,Contacted,2025-08-13,2025-06-03,,,
+LD1489,CV Indo Sukses,Manufacturing,Inbound Call,Budi Santoso,Bandung,2025-08-08,Qualified,2025-08-25,2025-08-17,95901000.0,,
+LD1490,CV Mitra Sejahtera,Technology,,Rina Marlina,,2024-05-05,Contacted,2024-06-11,,,,
+LD1491,CV Delta Solusi,Healthcare,,Budi Santoso,Jakarta,2024-08-03,Negotiation,2024-09-21,2024-09-16,25843000.0,,
+LD1492,CV Sumber Makmur,,Referral,Siti Nurhaliza,Palembang,2024-09-17,Closed Lost,2024-10-12,2024-09-25,81321000.0,,Follow up next week
+LD1493,UD Indo Sukses,F&B,,Andi Wijaya,Bandung,2025-04-23,Negotiation,2025-06-26,2025-05-19,142059000.0,,Send revised proposal
+LD1494,UD Delta Solusi,Healthcare,Partner,,Yogyakarta,2024-10-05,Closed Won,2024-12-24,,58691000.0,,
+LD1495,UD Karya Utama,,Website,Budi Santoso,Bandung,2025-01-01,Contacted,2025-01-29,2025-01-01,,,Follow up next week
+LD1496,PT. Sejahtera Bersama,Logistics,Referral,Dewi Lestari,Jakarta,2024-03-08,Qualified,2024-05-25,,34185000.0,,Waiting for PO
+LD1497,PT. Cahaya Abadi,Manufacturing,Email Campaign,Budi Santoso,Bandung,2024-06-24,Proposal Sent,2024-08-09,,87309000.0,,
+LD1498,PT. Bumi Perkasa,Technology,Partner,Siti Nurhaliza,Jakarta,2024-08-10,Qualified,2024-11-22,2024-10-11,92623000.0,,
+LD1499,PT Cahaya Abadi,Retail,,Budi Santoso,Jakarta,2024-06-23,Lead In,2024-10-08,,,,Client on vacation
+LD1500,CV Delta Solusi,,Social Media,Rudi Hartono,Bandung,2024-06-23,Closed Lost,2024-09-06,2024-08-23,113449000.0,Project cancelled,Waiting for PO
+LD1501,PT. Bumi Perkasa,Finance,,Andi Wijaya,,2024-07-29,Negotiation,2024-08-08,2024-08-14,10920000.0,,Waiting for PO
+LD1502,PT. Mega Trading,Manufacturing,,Ahmad Fauzi,Surabaya,2024-05-13,Contacted,2024-06-29,2024-05-30,,,Waiting for PO
+LD1503,PT Maju Terus,Construction,Referral,Ahmad Fauzi,Yogyakarta,2025-04-17,Closed Won,2025-05-02,2025-05-03,6231000.0,,Send revised proposal
+LD1504,UD Harapan Baru,Manufacturing,Email Campaign,Ahmad Fauzi,Jakarta,2025-03-08,Contacted,2025-04-02,2025-03-11,,,
+LD1505,CV Mega Trading,Manufacturing,Trade Show,Ahmad Fauzi,Medan,2024-09-29,Contacted,2024-12-07,2024-10-27,,,Waiting for PO
+LD1506,CV Sinar Jaya,Healthcare,Website,Andi Wijaya,Jakarta,2024-10-21,Negotiation,2024-11-27,,105670000.0,,
+LD1507,CV Sumber Makmur,Logistics,Social Media,Andi Wijaya,Jakarta,2024-01-22,Contacted,2024-02-25,2024-02-06,,,
+LD1508,UD Central Distribusi,Healthcare,Social Media,Budi Santoso,,2025-06-21,Proposal Sent,2025-07-10,2025-07-10,51680000.0,,VIP client
+LD1509,PT. Maju Terus,Manufacturing,Website,Dewi Lestari,Medan,2024-10-03,Negotiation,2024-09-26,2024-10-16,22962000.0,,VIP client
+LD1510,UD Mega Trading,Healthcare,,Yuni Shara,Makassar,2024-09-28,Closed Won,2024-11-12,,149104000.0,,
+LD1511,PT Anugrah Sentosa,Logistics,Partner,Siti Nurhaliza,Jakarta,2024-06-02,Proposal Sent,2024-07-10,,44662000.0,,Client on vacation
+LD1512,CV Mitra Sejahtera,Retail,Referral,Dewi Lestari,Medan,2024-09-14,Contacted,2024-10-21,2024-09-19,,,
+LD1513,CV Anugrah Sentosa,Education,Trade Show,Budi Santoso,Surabaya,2025-03-08,Qualified,2025-03-21,,27649000.0,,
+LD1514,PT. Nusantara Jaya,Construction,Email Campaign,Budi Santoso,,2024-07-06,Qualified,2024-08-31,2024-07-17,76565000.0,,
+LD1515,UD Cahaya Abadi,Manufacturing,Trade Show,Andi Wijaya,Medan,2025-01-17,Contacted,2025-03-28,2025-01-17,,,VIP client
+LD1516,PT Anugrah Sentosa,Technology,Email Campaign,Yuni Shara,Jakarta,2024-03-10,Closed Won,2024-12-26,2024-12-28,85686000.0,,
+LD1517,PT Harapan Baru,Retail,Referral,Siti Nurhaliza,Semarang,2024-07-24,Contacted,2024-07-25,2024-08-09,,,
+LD1518,CV Karya Utama,Finance,Inbound Call,Dewi Lestari,Jakarta,2024-07-07,Closed Won,2024-09-15,2024-09-14,92688000.0,,Send revised proposal
+LD1519,PT. Bumi Perkasa,Retail,Website,Andi Wijaya,Bandung,2025-01-11,Proposal Sent,2025-03-03,,120379000.0,,Client on vacation
+LD1520,CV Maju Terus,Manufacturing,Email Campaign,Ahmad Fauzi,Yogyakarta,2024-10-10,Lead In,2024-10-31,2024-10-21,,,Client on vacation
+LD1521,PT. Mitra Sejahtera,Logistics,Inbound Call,Yuni Shara,Medan,2024-05-23,Contacted,2024-08-16,2024-08-08,,,
+LD1522,CV Berkah Mandiri,Logistics,Website,Yuni Shara,Denpasar,2024-05-12,Negotiation,2024-07-27,2024-06-22,53518000.0,,Follow up next week
+LD1523,PT Tunas Muda,Retail,Partner,,,2024-03-06,Lead In,2024-04-08,2024-03-17,,,Send revised proposal
+LD1524,CV Anugrah Sentosa,Technology,Trade Show,Budi Santoso,,2024-07-19,Contacted,2024-09-14,2024-07-30,,,
+LD1525,PT. Harapan Baru,F&B,Partner,Budi Santoso,,2025-02-21,Proposal Sent,2025-03-03,,109786000.0,,Needs approval from board
+LD1526,PT Central Distribusi,Retail,Partner,Budi Santoso,Bandung,2024-03-21,Contacted,2024-05-27,2024-04-18,,,Waiting for PO
+LD1527,PT Delta Solusi,Retail,Cold Call,,Jakarta,2024-03-10,Closed Won,2024-03-31,2024-03-31,128273000.0,,Follow up next week
+LD1528,PT Maju Terus,Retail,Trade Show,Andi Wijaya,Palembang,2025-07-14,Closed Won,2025-08-26,2025-07-19,100174000.0,,Send revised proposal
+LD1529,PT Sumber Makmur,Retail,,Dewi Lestari,Yogyakarta,2024-02-06,Proposal Sent,2024-03-06,2024-03-01,65864000.0,,
+LD1530,PT Berkah Mandiri,Construction,Partner,Budi Santoso,Surabaya,2024-05-08,Qualified,2024-07-02,2024-07-15,93117000.0,,
+LD1531,UD Maju Terus,Retail,Referral,Rudi Hartono,Jakarta,2024-02-28,Contacted,2024-03-23,2024-03-24,,,
+LD1532,CV Harapan Baru,Manufacturing,Cold Call,Budi Santoso,Yogyakarta,2024-07-29,Proposal Sent,2024-09-13,2024-01-08,46802000.0,,Needs approval from board
+LD1533,CV Prima Nusantara,,Referral,Siti Nurhaliza,Bandung,2024-03-21,Contacted,2024-04-08,,,,Follow up next week
+LD1534,PT. Sumber Makmur,Technology,Trade Show,Yuni Shara,Jakarta,2024-01-22,Proposal Sent,2024-01-27,2024-01-28,89060000.0,,Needs approval from board
+LD1535,PT. Nusantara Jaya,Manufacturing,LinkedIn,Budi Santoso,,2024-12-22,Closed Lost,2025-03-10,2025-03-02,51760000.0,Project cancelled,VIP client
+LD1536,CV Karya Utama,Manufacturing,Cold Call,,Bandung,2024-09-23,Contacted,2024-11-11,2024-10-24,,,Waiting for PO
+LD1537,UD Sinar Jaya,Logistics,Website,Yuni Shara,Jakarta,2024-10-07,Qualified,2024-12-31,2024-10-11,3826000.0,,Send revised proposal
+LD1538,UD Central Distribusi,Retail,Inbound Call,Andi Wijaya,Jakarta,2024-02-29,Proposal Sent,2024-03-11,,92329000.0,,
+LD1539,UD Cipta Karya,Manufacturing,Partner,Dewi Lestari,Bandung,2025-03-26,Proposal Sent,2025-04-01,2025-03-28,148812000.0,,
+LD1540,PT. Maju Terus,F&B,Cold Call,Andi Wijaya,Jakarta,2025-08-07,Qualified,2025-11-03,,23176000.0,,
+LD1541,CV Indo Sukses,Technology,Inbound Call,Siti Nurhaliza,Jakarta,2024-08-04,Closed Won,2024-10-09,2024-10-15,111822000.0,,
+LD1542,UD Berkah Mandiri,Technology,LinkedIn,Siti Nurhaliza,Palembang,2025-06-24,Negotiation,2025-09-10,2025-08-19,41839000.0,,Needs approval from board
+LD1543,PT. Delta Solusi,Education,Partner,Rudi Hartono,,2024-03-19,Closed Won,2024-06-11,2024-05-01,36092000.0,,
+LD1544,PT. Bumi Perkasa,,Website,Ahmad Fauzi,Jakarta,2025-05-21,Proposal Sent,2025-06-16,2025-05-31,131708000.0,,
+LD1545,UD Bumi Perkasa,Retail,,Rina Marlina,Makassar,2024-12-28,Contacted,2025-03-28,,,,
+LD1546,UD Tunas Muda,,Social Media,Andi Wijaya,Yogyakarta,2025-02-22,Proposal Sent,2025-04-19,2025-03-29,72612000.0,,
+LD1547,PT Anugrah Sentosa,Healthcare,Cold Call,Andi Wijaya,Makassar,2025-07-31,Proposal Sent,2025-10-07,2025-08-12,49774000.0,,
+LD1548,CV Cipta Karya,Retail,,Andi Wijaya,Jakarta,2024-08-17,Closed Won,2024-09-23,2024-08-19,40395000.0,,VIP client
+LD1549,PT Tunas Muda,F&B,Social Media,Rudi Hartono,Jakarta,2024-01-27,Qualified,2024-03-04,2024-02-13,79092000.0,,
+LD1550,PT Sejahtera Bersama,,Website,Ahmad Fauzi,Jakarta,2024-11-30,Contacted,2025-01-12,2025-01-19,,,Follow up next week
+LD1551,PT Harapan Baru,Construction,LinkedIn,Dewi Lestari,Jakarta,2024-05-20,Proposal Sent,2024-06-18,2024-05-24,122453000.0,,
+LD1552,UD Central Distribusi,Healthcare,Inbound Call,Ahmad Fauzi,Makassar,2024-09-26,Proposal Sent,2024-12-16,2024-12-04,96382000.0,,
+LD1553,PT. Sejahtera Bersama,F&B,Cold Call,Ahmad Fauzi,Palembang,2024-11-29,Contacted,2025-01-23,2025-01-29,,,Send revised proposal
+LD1554,UD Cahaya Abadi,Manufacturing,LinkedIn,Dewi Lestari,Bandung,2024-10-01,Proposal Sent,2024-11-23,2024-10-06,49008000.0,,Needs approval from board
+LD1555,UD Maju Terus,Retail,Email Campaign,Siti Nurhaliza,Denpasar,2024-04-22,Closed Lost,2024-07-10,2024-06-27,21124000.0,,Follow up next week
+LD1556,PT Harapan Baru,Education,Social Media,Budi Santoso,Jakarta,2024-10-24,Closed Won,2024-12-11,,33911000.0,,Follow up next week
+LD1557,PT Mitra Sejahtera,Retail,LinkedIn,Ahmad Fauzi,Jakarta,2025-02-14,Contacted,2025-03-21,2025-04-02,,,
+LD1558,PT. Indo Sukses,Finance,Website,Dewi Lestari,Medan,2024-07-17,Closed Won,2024-08-26,2024-08-03,46719000.0,,VIP client
+LD1559,PT Prima Nusantara,Manufacturing,,,Jakarta,2025-02-07,Closed Lost,2025-04-18,2025-04-19,68936000.0,,
+LD1560,PT. Sumber Makmur,Logistics,Referral,Budi Santoso,,2025-04-29,Proposal Sent,2025-07-11,2025-07-07,62955000.0,,Follow up next week
+LD1561,PT Cahaya Abadi,Finance,Social Media,Andi Wijaya,Denpasar,2024-03-24,Closed Lost,2024-05-18,,57602000.0,,Needs approval from board
+LD1562,CV Mega Trading,Education,Cold Call,Budi Santoso,Makassar,2025-03-21,Closed Lost,2025-06-16,2025-05-20,49713000.0,Timing not right,
+LD1563,PT Prima Nusantara,Logistics,Referral,Siti Nurhaliza,Yogyakarta,2025-03-02,Contacted,2025-05-02,,,,
+LD1564,PT. Global Teknindo,Manufacturing,Inbound Call,,Surabaya,2024-12-24,Proposal Sent,2025-01-22,2025-01-30,44060000.0,,Follow up next week
+LD1565,PT. Anugrah Sentosa,Manufacturing,,Dewi Lestari,Surabaya,2024-05-09,Negotiation,2024-07-24,,128303000.0,,
+LD1566,PT. Indo Sukses,Education,LinkedIn,Yuni Shara,Bandung,2024-03-20,Closed Won,2024-03-27,2024-05-04,71810000.0,,
+LD1567,UD Tunas Muda,Retail,Cold Call,Ahmad Fauzi,Surabaya,2024-05-26,Closed Won,2024-08-06,2024-08-05,19795000.0,,Follow up next week
+LD1568,UD Central Distribusi,Manufacturing,LinkedIn,Rudi Hartono,Bandung,2025-03-28,Qualified,2025-03-23,2025-03-31,50611000.0,,
+LD1569,PT Cahaya Abadi,,Partner,Andi Wijaya,Palembang,2025-05-17,Contacted,2025-08-08,2025-06-08,,,
+LD1570,UD Sinar Jaya,Retail,Partner,Rina Marlina,Yogyakarta,2024-03-04,Qualified,2024-05-13,2024-05-28,111143000.0,,
+LD1571,CV Harapan Baru,Education,Inbound Call,Budi Santoso,Bandung,2024-03-26,Contacted,2024-04-01,2024-04-12,,,Client on vacation
+LD1572,PT Sinar Jaya,F&B,Inbound Call,Budi Santoso,,2024-03-31,Contacted,2024-12-04,,,,Client on vacation
+LD1573,UD Anugrah Sentosa,Logistics,Cold Call,Rudi Hartono,Palembang,2024-07-14,Negotiation,2024-07-31,,43287000.0,,Client on vacation
+LD1574,UD Anugrah Sentosa,,Email Campaign,Budi Santoso,,2025-05-04,Closed Won,2025-07-02,2025-07-15,7436000.0,,VIP client
+LD1575,CV Central Distribusi,Retail,Partner,Rina Marlina,Bandung,2024-09-24,Lead In,2024-09-10,2024-10-06,,,
+LD1576,PT Tunas Muda,,Social Media,Andi Wijaya,Makassar,2024-11-06,Qualified,2024-07-24,2024-07-08,135641000.0,,Send revised proposal
+LD1577,PT. DELTA SOLUSI,Retail,Email Campaign,Andi Wijaya,Bandung,2024-12-11,Proposal Sent,2025-01-02,2025-02-16,145673000.0,,
+LD1578,UD Mitra Sejahtera,Manufacturing,,Dewi Lestari,Medan,2024-02-04,Qualified,2024-04-21,2024-04-17,69890000.0,,VIP client
+LD1579,PT Indo Sukses,Healthcare,,Andi Wijaya,Medan,2024-06-12,Qualified,2024-08-12,2024-07-18,71901000.0,,Needs approval from board
+LD1580,PT Berkah Mandiri,Education,Referral,Budi Santoso,Surabaya,2025-05-15,Proposal Sent,2025-05-05,,28368000.0,,Needs approval from board
+LD1581,PT Tunas Muda,Manufacturing,Cold Call,,Palembang,2024-10-18,Qualified,2025-01-13,2025-01-09,7154000.0,,
+LD1582,PT Mega Trading,Logistics,Social Media,Budi Santoso,Bandung,2025-01-28,Negotiation,2025-01-30,2025-02-07,116161000.0,,Client on vacation
+LD1583,PT. NUSANTARA JAYA,Logistics,Cold Call,Budi Santoso,Jakarta,2025-01-27,Closed Won,2025-02-07,2025-10-02,51893000.0,,
+LD1584,PT Maju Terus,F&B,Email Campaign,Ahmad Fauzi,Surabaya,2024-10-30,Negotiation,2024-11-03,2024-01-11,4593000.0,,
+LD1585,UD MAJU TERUS,Manufacturing,Partner,,,2024-12-19,Closed Lost,2025-03-18,2025-02-05,139975000.0,Chose competitor,Client on vacation
+LD1586,PT Nusantara Jaya,Education,,Dewi Lestari,Makassar,2024-01-23,Contacted,2024-02-25,2024-11-02,,,VIP client
+LD1587,UD GLOBAL TEKNINDO,Construction,Referral,Budi Santoso,,2025-10-08,Qualified,2025-10-05,2025-08-26,103952000.0,,Send revised proposal
+LD1588,UD Mega Trading,Retail,Partner,Ahmad Fauzi,Denpasar,2024-08-18,Lead In,2024-09-29,2024-08-09,,,Send revised proposal
+LD1589,PT Delta Solusi,Healthcare,Inbound Call,Yuni Shara,Yogyakarta,2024-11-23,Qualified,2025-01-19,2024-12-03,128445000.0,,VIP client
+LD1590,UD Delta Solusi,Education,,Budi Santoso,,2025-04-23,Lead In,2025-07-12,2025-07-03,,,Follow up next week
+LD1591,PT Delta Solusi,,,Andi Wijaya,,2024-05-06,Lead In,2024-06-03,2024-05-31,,,Client on vacation
+LD1592,CV Indo Sukses,Logistics,Social Media,Rudi Hartono,,2024-11-23,Negotiation,2025-02-12,2024-12-13,114739000.0,,
+LD1593,CV Karya Utama,Retail,Email Campaign,Siti Nurhaliza,Makassar,2025-04-20,Proposal Sent,2025-07-17,2025-07-22,146189000.0,,
+LD1594,UD Berkah Mandiri,F&B,LinkedIn,Dewi Lestari,Bandung,2025-04-28,Negotiation,2025-04-18,,132760000.0,,
+LD1595,CV Berkah Mandiri,Retail,Website,Budi Santoso,Palembang,2024-09-07,Negotiation,2024-11-03,2024-10-29,119920000.0,,Send revised proposal
+LD1596,PT Tunas Muda,Construction,LinkedIn,Budi Santoso,Bandung,2025-07-04,Contacted,2025-09-20,2025-10-04,,,Client on vacation
+LD1597,PT Sinar Jaya,Technology,Inbound Call,Rina Marlina,Jakarta,2024-05-07,Contacted,2024-06-10,2024-06-06,,,
+LD1598,CV Harapan Baru,Healthcare,Referral,Rina Marlina,Makassar,2024-07-09,Negotiation,2024-10-21,2024-10-22,105535000.0,,
+LD1599,UD Indo Sukses,Technology,Referral,Budi Santoso,,2024-10-28,Contacted,2025-01-25,2025-01-10,,,
+LD1600,CV Harapan Baru,Manufacturing,Social Media,Ahmad Fauzi,Jakarta,2025-02-19,Qualified,2025-03-13,2025-02-23,76162000.0,,Waiting for PO
+LD1601,PT Indo Sukses,Education,Cold Call,Budi Santoso,Jakarta,2024-05-02,Proposal Sent,2024-06-17,2024-06-06,86272000.0,,VIP client
+LD1602,CV Berkah Mandiri,Retail,LinkedIn,Yuni Shara,Jakarta,2025-06-19,Contacted,2025-07-22,2025-07-27,,,Waiting for PO
+LD1603,CV Central Distribusi,Manufacturing,Website,Yuni Shara,Surabaya,2025-06-19,Qualified,2025-07-16,2025-07-23,88680000.0,,
+LD1604,PT. Mega Trading,Finance,Inbound Call,Andi Wijaya,Bandung,2025-03-16,Closed Won,2025-03-31,2025-03-31,89163000.0,,Waiting for PO
+LD1605,PT. Central Distribusi,Education,Website,Ahmad Fauzi,Denpasar,2024-10-08,Proposal Sent,2024-12-12,2024-10-20,141963000.0,,Send revised proposal
+LD1606,CV Sejahtera Bersama,F&B,,Ahmad Fauzi,,2024-04-21,Negotiation,2024-05-19,2024-05-01,71838000.0,,
+LD1607,UD Sejahtera Bersama,Construction,Trade Show,Andi Wijaya,Medan,2025-03-02,Negotiation,2025-06-04,2025-03-02,125497000.0,,Needs approval from board
+LD1608,PT. Indo Sukses,Technology,Email Campaign,Dewi Lestari,,2025-04-12,Negotiation,2025-04-15,2025-04-28,39878000.0,,Waiting for PO
+LD1609,PT. Berkah Mandiri,Retail,Partner,Andi Wijaya,Medan,2025-05-06,Closed Lost,2025-07-21,,,Timing not right,Waiting for PO
+LD1610,PT Tunas Muda,Manufacturing,Partner,Budi Santoso,,2024-04-23,Qualified,2024-05-03,2024-01-05,116736000.0,,Waiting for PO
+LD1611,UD Global Teknindo,Manufacturing,Website,Andi Wijaya,Jakarta,2025-01-04,Closed Won,2025-03-03,2025-02-25,35697000.0,,Send revised proposal
+LD1612,UD Cipta Karya,Manufacturing,Partner,Rina Marlina,Denpasar,2025-01-17,Lead In,2025-03-14,2025-01-26,,,VIP client
+LD1613,CV Sejahtera Bersama,Logistics,Inbound Call,Andi Wijaya,Bandung,2024-03-30,Proposal Sent,2024-05-29,2024-05-06,115533000.0,,Needs approval from board
+LD1614,CV Delta Solusi,Technology,LinkedIn,Andi Wijaya,Jakarta,2024-01-07,Proposal Sent,2024-01-03,2024-01-25,128625000.0,,
+LD1615,CV Anugrah Sentosa,Manufacturing,Website,Andi Wijaya,Semarang,2024-05-10,Proposal Sent,2024-05-19,,32903000.0,,Follow up next week
+LD1616,PT Mitra Sejahtera,Finance,Email Campaign,Andi Wijaya,Palembang,2025-02-12,Contacted,2025-04-02,2025-02-27,,,Follow up next week
+LD1617,PT. Nusantara Jaya,Healthcare,,Siti Nurhaliza,Bandung,2024-11-20,Qualified,2024-12-17,2024-12-09,120369000.0,,Needs approval from board
+LD1618,PT Karya Utama,Retail,Referral,Yuni Shara,,2025-03-02,Closed Won,2025-06-02,2025-02-04,42658000.0,,Follow up next week
+LD1619,CV Sumber Makmur,Healthcare,Cold Call,Ahmad Fauzi,Denpasar,2025-02-28,Closed Won,2025-04-23,2025-04-02,140571000.0,,
+LD1620,CV Mitra Sejahtera,Logistics,Website,Siti Nurhaliza,Semarang,2024-02-05,Negotiation,2024-02-24,2024-02-03,8882000.0,,VIP client
+LD1621,CV Karya Utama,Manufacturing,Referral,Andi Wijaya,Surabaya,2025-05-02,Qualified,2025-06-04,2025-05-07,99143000.0,,Needs approval from board
+LD1622,PT. Delta Solusi,F&B,Partner,Rudi Hartono,,2024-08-19,Contacted,2024-11-12,2024-09-29,,,
+LD1623,PT. Central Distribusi,Retail,Referral,,,2024-07-21,Closed Lost,2024-07-23,2024-08-02,25959000.0,No response,Send revised proposal
+LD1624,PT Sejahtera Bersama,Healthcare,Cold Call,Siti Nurhaliza,,2024-10-13,Proposal Sent,2024-12-18,2024-12-06,39782000.0,,VIP client
+LD1625,CV Indo Sukses,Manufacturing,Email Campaign,Dewi Lestari,Jakarta,2024-03-05,Proposal Sent,2024-06-10,2024-05-17,53448000.0,,Follow up next week
+LD1626,CV Mega Trading,Retail,,Andi Wijaya,Yogyakarta,2024-06-04,Proposal Sent,2024-11-08,2024-07-28,120438000.0,,Waiting for PO
+LD1627,CV Mega Trading,Construction,Website,Budi Santoso,,2025-06-18,Closed Lost,2025-08-18,,2052000.0,No budget,Follow up next week
+LD1628,CV Anugrah Sentosa,Healthcare,Inbound Call,Rudi Hartono,,2025-02-04,Proposal Sent,2025-03-08,2025-02-04,42880000.0,,VIP client
+LD1629,PT Indo Sukses,Logistics,Cold Call,Siti Nurhaliza,Denpasar,2024-08-25,Proposal Sent,2024-10-03,2024-09-21,24744000.0,,Send revised proposal
+LD1630,PT. Cahaya Abadi,,,Rudi Hartono,,2024-03-31,Closed Lost,2024-06-17,2024-07-02,127795000.0,Project cancelled,VIP client
+LD1631,PT. Berkah Mandiri,,Inbound Call,Rudi Hartono,Jakarta,2024-01-14,Contacted,2024-03-17,2024-03-16,,,
+LD1632,PT. Indo Sukses,Logistics,Website,Rina Marlina,Denpasar,2024-04-20,Proposal Sent,2024-07-12,2024-06-17,115077000.0,,VIP client
+LD1633,UD Maju Terus,Education,Cold Call,Rina Marlina,Surabaya,2024-09-08,Proposal Sent,2024-08-13,2024-08-23,50686000.0,,Client on vacation
+LD1634,UD Maju Terus,Education,LinkedIn,Dewi Lestari,Bandung,2025-07-25,Negotiation,2025-10-04,2025-08-06,111624000.0,,
+LD1635,UD Sumber Makmur,,Partner,Rudi Hartono,Yogyakarta,2024-07-09,Negotiation,2024-08-04,2024-08-19,121273000.0,,VIP client
+LD1636,PT. Global Teknindo,Construction,Cold Call,Budi Santoso,Bandung,2024-07-22,Lead In,2024-10-07,2024-08-08,,,
+LD1637,CV Berkah Mandiri,Technology,Referral,Yuni Shara,Denpasar,2024-03-25,Qualified,2024-04-23,,100793000.0,,Follow up next week
+LD1638,PT. Global Teknindo,Healthcare,Cold Call,Rudi Hartono,Medan,2025-03-25,Qualified,2025-06-04,2025-05-10,78749000.0,,Follow up next week
+LD1639,CV Maju Terus,Technology,Inbound Call,Budi Santoso,,2024-11-25,Closed Won,2025-02-23,2025-01-23,147190000.0,,
+LD1640,PT Maju Terus,Manufacturing,LinkedIn,Andi Wijaya,Jakarta,2025-03-22,Lead In,2025-03-14,,,,Waiting for PO
+LD1641,PT. Karya Utama,Retail,Inbound Call,Andi Wijaya,Bandung,2025-05-17,Qualified,2025-06-04,2025-05-20,81683000.0,,Client on vacation
+LD1642,PT. Bumi Perkasa,,Website,Ahmad Fauzi,Makassar,2025-06-26,Qualified,2025-07-17,2025-07-20,38822000.0,,Needs approval from board
+LD1643,PT Sejahtera Bersama,Retail,Website,Budi Santoso,Bandung,2024-08-04,Qualified,2024-05-01,,29316000.0,,VIP client
+LD1644,PT. PRIMA NUSANTARA,Manufacturing,Partner,Andi Wijaya,Bandung,2024-06-21,Lead In,2024-06-15,2024-07-13,,,
+LD1645,PT. Sumber Makmur,Education,Email Campaign,Siti Nurhaliza,,2024-04-09,Closed Won,2024-04-29,,86950000.0,,
+LD1646,UD Tunas Muda,Logistics,Email Campaign,Ahmad Fauzi,,2025-05-24,Contacted,2025-06-13,2025-05-31,,,
+LD1647,PT Central Distribusi,Finance,Inbound Call,Andi Wijaya,Jakarta,2025-05-17,Contacted,2025-07-08,2025-05-28,,,Client on vacation
+LD1648,PT. Indo Sukses,Healthcare,Website,Yuni Shara,Jakarta,2025-06-18,Qualified,2025-08-27,2025-08-28,115001000.0,,Needs approval from board
+LD1649,CV Sejahtera Bersama,Education,Email Campaign,Budi Santoso,Jakarta,2024-02-12,Contacted,2024-02-24,2024-02-24,,,VIP client
+LD1650,CV Central Distribusi,Retail,Inbound Call,Andi Wijaya,Jakarta,2024-07-01,Proposal Sent,2024-09-27,2024-08-18,136778000.0,,
+LD1651,UD Nusantara Jaya,Technology,LinkedIn,,Bandung,2024-06-30,Closed Lost,2024-07-30,2024-08-10,125993000.0,Project cancelled,Needs approval from board
+LD1652,PT. Karya Utama,Manufacturing,Referral,Siti Nurhaliza,Denpasar,2024-10-11,Closed Won,2024-05-11,2024-10-18,94727000.0,,Send revised proposal
+LD1653,CV Mitra Sejahtera,Finance,Social Media,Dewi Lestari,Jakarta,2024-09-19,Closed Lost,2024-12-17,2024-09-23,81366000.0,Chose competitor,
+LD1654,CV Tunas Muda,Technology,Website,,Yogyakarta,2024-03-10,Contacted,2024-05-28,2024-05-04,,,
+LD1655,UD TUNAS MUDA,Technology,Social Media,Siti Nurhaliza,,2024-06-28,Qualified,2024-07-24,2024-08-05,10351000.0,,VIP client
+LD1656,PT BERKAH MANDIRI,Construction,Website,Andi Wijaya,Jakarta,2024-04-24,Negotiation,2024-06-16,2024-05-09,109164000.0,,
+LD1657,PT. Central Distribusi,Healthcare,Referral,Yuni Shara,Yogyakarta,2025-08-08,Proposal Sent,2025-09-14,,37175000.0,,
+LD1658,CV Indo Sukses,Construction,Inbound Call,Rina Marlina,Surabaya,2024-06-13,Qualified,2024-06-16,2024-06-26,,,Send revised proposal
+LD1659,UD Tunas Muda,Manufacturing,,Ahmad Fauzi,Bandung,2025-01-07,Qualified,2025-04-03,2025-02-15,109050000.0,,
+LD1660,CV Indo Sukses,Retail,Trade Show,Andi Wijaya,Semarang,2025-02-26,Lead In,2025-03-26,2025-03-11,,,
+LD1661,PT Bumi Perkasa,Retail,Website,Budi Santoso,Jakarta,2025-11-08,Negotiation,2025-09-06,2025-09-01,111293000.0,,Client on vacation
+LD1662,UD Bumi Perkasa,Construction,Referral,Andi Wijaya,Jakarta,2024-08-06,Qualified,2024-08-15,2024-08-09,124582000.0,,
+LD1663,PT. Central Distribusi,Healthcare,Website,Andi Wijaya,Palembang,2024-10-14,Negotiation,2024-11-15,2024-11-11,100253000.0,,
+LD1664,CV Sejahtera Bersama,Retail,,Siti Nurhaliza,Bandung,2024-12-18,Closed Won,2024-12-29,2025-12-01,46415000.0,,
+LD1665,PT Central Distribusi,Technology,Referral,Budi Santoso,Denpasar,2024-09-15,Contacted,2024-10-21,2024-10-29,,,Send revised proposal
+LD1666,PT. Indo Sukses,,LinkedIn,,Bandung,2025-04-14,Proposal Sent,2025-05-27,2025-08-05,21336000.0,,VIP client
+LD1667,PT Sumber Makmur,Manufacturing,,Siti Nurhaliza,Surabaya,2024-05-15,Closed Lost,2024-06-18,2024-05-26,74347000.0,No budget,
+LD1668,PT Mega Trading,,LinkedIn,Andi Wijaya,Surabaya,2024-01-14,Negotiation,2024-02-27,,94667000.0,,
+LD1669,PT. Mega Trading,Manufacturing,Social Media,Rudi Hartono,Palembang,2025-03-19,Negotiation,2025-04-18,2025-04-25,108113000.0,,
+LD1670,CV Sinar Jaya,Retail,,Andi Wijaya,Bandung,2024-06-29,Closed Lost,2024-08-02,2024-07-25,82216000.0,Project cancelled,Follow up next week
+LD1671,PT. Mitra Sejahtera,,LinkedIn,Yuni Shara,Jakarta,2024-08-01,Proposal Sent,2024-04-05,,11292000.0,,
+LD1672,CV Berkah Mandiri,Logistics,Website,Rina Marlina,Medan,2024-03-08,Proposal Sent,2024-04-18,2024-05-03,75955000.0,,Needs approval from board
+LD1673,CV Karya Utama,Retail,Referral,Dewi Lestari,Jakarta,2024-05-25,Negotiation,2024-07-14,2024-07-14,5623000.0,,Waiting for PO
+LD1674,PT Maju Terus,Logistics,Website,Rina Marlina,Palembang,2024-06-11,Qualified,2024-08-21,2024-08-27,75872000.0,,Follow up next week
+LD1675,UD Prima Nusantara,Retail,Trade Show,Andi Wijaya,Jakarta,2025-05-17,Lead In,2025-06-26,2025-05-25,,,Client on vacation
+LD1676,CV Anugrah Sentosa,Healthcare,LinkedIn,Dewi Lestari,,2025-04-29,Lead In,2025-06-26,2025-06-28,,,VIP client
+LD1677,PT Sejahtera Bersama,F&B,Website,Ahmad Fauzi,,2024-11-25,Negotiation,2025-07-02,2025-02-12,35881000.0,,VIP client
+LD1678,PT Sejahtera Bersama,F&B,Partner,Yuni Shara,Yogyakarta,2025-04-05,Qualified,2025-04-30,2025-04-22,42879000.0,,Send revised proposal
+LD1679,PT Prima Nusantara,Retail,Referral,Rudi Hartono,Jakarta,2024-07-11,Closed Lost,2024-09-26,2024-10-02,132946000.0,,
+LD1680,PT Global Teknindo,Education,Referral,Andi Wijaya,Semarang,2025-07-22,Contacted,2025-09-17,2025-11-08,,,Client on vacation
+LD1681,PT Prima Nusantara,Finance,,Andi Wijaya,Jakarta,2025-07-19,Qualified,2025-08-07,2025-07-22,95076000.0,,
+LD1682,PT Harapan Baru,F&B,,Ahmad Fauzi,Palembang,2024-04-14,Proposal Sent,2024-05-15,2024-05-19,14011000.0,,Follow up next week
+LD1683,PT Berkah Mandiri,Technology,Website,Dewi Lestari,,2024-02-09,Lead In,2024-11-29,2024-09-21,,,
+LD1684,CV Delta Solusi,Healthcare,Cold Call,Siti Nurhaliza,Makassar,2024-01-20,Proposal Sent,2024-02-27,2024-02-21,101107000.0,,
+LD1685,CV Anugrah Sentosa,Healthcare,Cold Call,Rina Marlina,Surabaya,2024-10-15,Contacted,2024-12-02,2024-11-17,,,Waiting for PO
+LD1686,PT Anugrah Sentosa,,Partner,Rudi Hartono,,2025-02-19,Contacted,2025-03-06,2025-03-12,,,
+LD1687,PT. Sejahtera Bersama,F&B,Trade Show,Andi Wijaya,,2024-08-23,Proposal Sent,2024-09-25,2024-09-23,5524000.0,,
+LD1688,CV Bumi Perkasa,Construction,Referral,,Surabaya,2024-04-19,Closed Won,2024-04-23,,139664000.0,,Needs approval from board
+LD1689,PT Central Distribusi,Technology,Website,Siti Nurhaliza,Palembang,2024-02-05,Qualified,2024-05-06,2024-05-31,139972000.0,,
+LD1690,CV Sumber Makmur,Education,Website,,Jakarta,2025-07-30,Qualified,2025-10-27,2025-10-28,6425000.0,,Send revised proposal
+LD1691,PT Delta Solusi,Logistics,Trade Show,Budi Santoso,Palembang,2024-07-11,Contacted,2024-09-07,2024-09-08,,,
+LD1692,PT. Sinar Jaya,Education,Cold Call,Yuni Shara,Bandung,2025-04-12,Closed Won,2025-06-21,2025-04-30,99473000.0,,Send revised proposal
+LD1693,CV Mega Trading,Retail,Inbound Call,Andi Wijaya,,2024-03-29,Proposal Sent,2024-04-16,2024-04-06,55083000.0,,Follow up next week
+LD1694,UD Central Distribusi,Construction,LinkedIn,Rina Marlina,Yogyakarta,2024-04-24,Closed Lost,2024-07-03,2024-06-29,17365000.0,,Follow up next week
+LD1695,CV Sumber Makmur,F&B,Email Campaign,Siti Nurhaliza,Semarang,2025-04-09,Contacted,2025-07-07,2025-04-18,,,Waiting for PO
+LD1696,PT. Bumi Perkasa,Retail,Cold Call,,Medan,2025-08-07,Proposal Sent,2025-07-07,2025-08-15,45776000.0,,Needs approval from board
+LD1697,PT. Indo Sukses,,,Siti Nurhaliza,Medan,2025-08-26,Closed Won,2025-11-16,2025-11-09,6665000.0,,Client on vacation
+LD1698,CV Mega Trading,Finance,Website,Rina Marlina,Bandung,2024-02-09,Closed Lost,2024-02-21,2024-03-04,82473000.0,,Follow up next week
+LD1699,PT Global Teknindo,F&B,LinkedIn,Budi Santoso,Semarang,2025-08-30,Closed Won,2025-03-09,2025-09-13,70551000.0,,
+LD1700,CV Berkah Mandiri,Logistics,Inbound Call,Andi Wijaya,,2024-04-22,Negotiation,2024-05-02,2024-04-29,73965000.0,,
+LD1701,PT. Sumber Makmur,Finance,LinkedIn,Rina Marlina,Denpasar,2025-07-30,Lead In,2025-10-02,2025-08-12,,,
+LD1702,PT. Harapan Baru,F&B,Referral,Siti Nurhaliza,Jakarta,2024-03-07,Lead In,2024-01-06,2024-03-18,,,Follow up next week
+LD1704,CV Mitra Sejahtera,Technology,Website,Andi Wijaya,Jakarta,2025-06-05,Closed Won,2025-05-31,2025-06-15,72785000.0,,Client on vacation
+LD1705,PT Anugrah Sentosa,Retail,Cold Call,Ahmad Fauzi,Semarang,2025-03-18,Lead In,2025-04-29,2025-05-10,,,
+LD1706,PT Maju Terus,Healthcare,Cold Call,Yuni Shara,Denpasar,2024-04-09,Proposal Sent,2024-10-11,2024-09-23,13108000.0,,
+LD1707,PT. Sejahtera Bersama,Education,Partner,,Jakarta,2025-05-14,Qualified,2025-08-11,2025-08-02,84908000.0,,Waiting for PO
+LD1708,UD Mega Trading,Retail,Inbound Call,Dewi Lestari,,2024-11-16,Closed Lost,2024-12-28,2025-01-11,47339000.0,Project cancelled,Follow up next week
+LD1709,CV Bumi Perkasa,Technology,Cold Call,,Surabaya,2024-11-24,Contacted,2025-01-23,2025-06-01,,,Send revised proposal
+LD1710,CV Global Teknindo,Education,Social Media,Budi Santoso,Makassar,2025-08-04,Qualified,2025-09-17,2025-09-05,145044000.0,,Follow up next week
+LD1711,PT Global Teknindo,Manufacturing,Email Campaign,Rudi Hartono,Jakarta,2024-04-20,Qualified,2024-09-06,2024-06-13,22680000.0,,
+LD1712,UD Berkah Mandiri,Finance,,Ahmad Fauzi,Surabaya,2024-10-10,Qualified,2024-10-11,,41477000.0,,
+LD1713,CV Berkah Mandiri,Education,Referral,Andi Wijaya,Surabaya,2025-05-12,Contacted,2025-06-13,,,,Waiting for PO
+LD1714,PT. Tunas Muda,Retail,LinkedIn,Ahmad Fauzi,,2025-04-01,Contacted,2025-04-14,2025-04-25,,,VIP client
+LD1715,PT. Sinar Jaya,Healthcare,Referral,Dewi Lestari,Bandung,2025-06-20,Qualified,2025-06-23,2025-07-02,91770000.0,,Waiting for PO
+LD1716,PT Central Distribusi,Construction,Social Media,Ahmad Fauzi,Jakarta,2024-01-25,Negotiation,2024-04-07,2024-02-26,120415000.0,,Waiting for PO
+LD1717,CV Cahaya Abadi,Technology,Cold Call,Budi Santoso,,2024-06-21,Contacted,2024-09-04,2024-02-07,,,
+LD1718,PT Berkah Mandiri,Manufacturing,Partner,Budi Santoso,Makassar,2024-03-22,Proposal Sent,2024-04-24,2024-05-08,45387000.0,,VIP client
+LD1719,UD Sinar Jaya,Retail,Referral,Dewi Lestari,,2024-01-18,Closed Won,2024-02-13,2024-02-07,13403000.0,,Waiting for PO
+LD1720,CV Tunas Muda,Manufacturing,Website,Dewi Lestari,Jakarta,2024-02-28,Qualified,2024-03-21,,129530000.0,,Needs approval from board
+LD1721,UD Mega Trading,Education,,Ahmad Fauzi,,2025-06-25,Negotiation,2025-09-20,2025-08-31,133541000.0,,
+LD1722,PT Mega Trading,Healthcare,Trade Show,Ahmad Fauzi,Bandung,2024-07-30,Lead In,2024-09-16,2024-08-02,,,Follow up next week
+LD1723,PT. Tunas Muda,F&B,Cold Call,Dewi Lestari,Semarang,2025-04-05,Closed Won,2025-04-23,2025-01-05,46692000.0,,Follow up next week
+LD1724,PT. Mitra Sejahtera,F&B,Referral,Rudi Hartono,Yogyakarta,2024-02-24,Qualified,2024-04-14,2024-02-25,45505000.0,,
+LD1725,UD Cahaya Abadi,Logistics,Partner,Siti Nurhaliza,Semarang,2024-01-26,Proposal Sent,2024-04-16,2024-03-21,120180000.0,,
+LD1726,CV Mitra Sejahtera,Retail,Cold Call,Ahmad Fauzi,Surabaya,2024-03-09,Closed Lost,2024-03-29,2024-03-11,67099000.0,No budget,Follow up next week
+LD1727,PT Berkah Mandiri,Manufacturing,Referral,,Semarang,2025-03-13,Proposal Sent,2025-04-15,2025-03-18,33171000.0,,Client on vacation
+LD1728,CV Berkah Mandiri,Healthcare,Trade Show,Yuni Shara,Bandung,2025-08-13,Proposal Sent,2025-09-25,2025-09-14,102930000.0,,Needs approval from board
+LD1729,UD Nusantara Jaya,Education,Trade Show,Andi Wijaya,Bandung,2024-04-19,Closed Won,2024-06-30,2024-04-29,117955000.0,,
+LD1730,PT Prima Nusantara,Technology,Social Media,Ahmad Fauzi,Makassar,2025-03-22,Qualified,2025-05-17,2025-12-05,,,Follow up next week
+LD1731,PT Karya Utama,Retail,Website,Yuni Shara,Jakarta,2024-12-06,Proposal Sent,2024-08-27,2024-06-29,14266000.0,,Client on vacation
+LD1732,PT Delta Solusi,Technology,Website,Andi Wijaya,Jakarta,2024-02-11,Contacted,2024-03-22,2024-01-04,,,Needs approval from board
+LD1733,PT Central Distribusi,Construction,LinkedIn,Rudi Hartono,Jakarta,2025-08-30,Qualified,2025-11-06,2025-12-10,70426000.0,,Send revised proposal
+LD1734,CV Cahaya Abadi,Manufacturing,Partner,Siti Nurhaliza,Jakarta,2024-10-27,Proposal Sent,2024-12-18,,127374000.0,,
+LD1735,PT Cipta Karya,Manufacturing,Cold Call,Dewi Lestari,Semarang,2025-08-16,Contacted,2025-10-17,2025-08-20,,,Needs approval from board
+LD1736,PT. Sejahtera Bersama,,,Andi Wijaya,,2024-09-15,Qualified,2024-11-18,,129661000.0,,
+LD1738,UD Harapan Baru,Retail,Email Campaign,Andi Wijaya,Makassar,2024-08-04,Contacted,2024-10-31,2024-08-29,,,
+LD1739,PT. Mega Trading,Logistics,Cold Call,Andi Wijaya,Surabaya,2025-07-05,Closed Lost,2025-02-09,2025-08-07,51226000.0,Price too high,Follow up next week
+LD1740,PT. Berkah Mandiri,Education,Trade Show,Budi Santoso,Jakarta,2024-09-28,Lead In,2024-10-28,2024-01-11,,,VIP client
+LD1741,UD Sinar Jaya,Construction,Referral,Budi Santoso,Denpasar,2024-02-22,Proposal Sent,2024-05-07,2024-03-03,99871000.0,,Follow up next week
+LD1742,PT. Sinar Jaya,Manufacturing,Referral,Andi Wijaya,Bandung,2024-09-21,Contacted,2024-10-29,2024-11-08,,,Waiting for PO
+LD1743,PT. Sejahtera Bersama,Finance,,Budi Santoso,Semarang,2024-06-08,Closed Won,2024-09-06,2024-06-11,114250000.0,,
+LD1744,UD Sumber Makmur,F&B,Partner,Siti Nurhaliza,Jakarta,2024-12-27,Contacted,2025-01-21,2025-01-05,,,VIP client
+LD1745,PT. Bumi Perkasa,F&B,,Ahmad Fauzi,Surabaya,2024-12-25,Lead In,2025-02-13,2025-01-18,,,Send revised proposal
+LD1746,UD Sumber Makmur,Construction,Cold Call,,Bandung,2025-07-24,Negotiation,2025-09-12,2025-07-24,56593000.0,,Send revised proposal
+LD1747,UD Berkah Mandiri,Retail,,Ahmad Fauzi,Bandung,2025-07-28,Negotiation,2025-12-10,,109434000.0,,Waiting for PO
+LD1748,PT. SUMBER MAKMUR,,Cold Call,Rina Marlina,Jakarta,2025-01-23,Closed Lost,2025-02-28,2025-01-28,62980000.0,,
+LD1749,PT Cipta Karya,Finance,,Budi Santoso,Bandung,2024-04-07,Closed Lost,2024-05-20,2024-05-19,20312000.0,,
+LD1750,UD Indo Sukses,Finance,Cold Call,Andi Wijaya,Makassar,2024-10-02,Negotiation,2024-10-20,,17811000.0,,
+LD1751,UD Delta Solusi,Finance,,Dewi Lestari,Semarang,2024-01-18,Qualified,2024-02-04,,77433000.0,,Follow up next week
+LD1752,PT. Global Teknindo,Construction,Social Media,Budi Santoso,Jakarta,2025-06-24,Qualified,2025-07-12,2025-07-06,89434000.0,,
+LD1753,PT DELTA SOLUSI,,Referral,Siti Nurhaliza,,2024-05-15,Negotiation,2024-06-14,2024-05-15,112242000.0,,Client on vacation
+LD1754,CV Central Distribusi,Education,Cold Call,Ahmad Fauzi,Jakarta,2025-01-12,Qualified,2025-03-06,2025-01-12,78792000.0,,
+LD1755,CV Prima Nusantara,Finance,Trade Show,Budi Santoso,Semarang,2024-10-23,Contacted,2024-11-07,2024-10-25,,,Client on vacation
+LD1756,CV Bumi Perkasa,,Cold Call,Budi Santoso,Bandung,2024-10-09,Closed Won,2024-11-28,2024-10-21,73092000.0,,VIP client
+LD1757,PT Karya Utama,Retail,Cold Call,Budi Santoso,Medan,2025-03-08,Closed Lost,2025-08-17,,43856000.0,No response,
+LD1758,PT. Mega Trading,Healthcare,Referral,Rina Marlina,Jakarta,2024-09-14,Negotiation,2024-10-19,2024-10-06,144177000.0,,Follow up next week
+LD1759,CV Berkah Mandiri,Construction,Website,Dewi Lestari,Semarang,2025-07-29,Lead In,2025-08-08,2025-08-15,,,
+LD1760,PT Global Teknindo,Healthcare,Social Media,Dewi Lestari,Jakarta,2024-08-14,Negotiation,2024-09-11,2024-08-29,,,
+LD1761,PT. Sejahtera Bersama,Retail,Email Campaign,Andi Wijaya,Surabaya,2024-02-15,Qualified,2024-03-22,,2941000.0,,Client on vacation
+LD1762,PT Global Teknindo,,,Andi Wijaya,Surabaya,2024-06-17,Lead In,2024-06-30,2024-06-18,,,Follow up next week
+LD1763,CV Cahaya Abadi,Manufacturing,LinkedIn,Dewi Lestari,Bandung,2025-04-16,Lead In,2025-06-13,2025-05-24,,,Needs approval from board
+LD1764,CV Nusantara Jaya,Manufacturing,,Andi Wijaya,Surabaya,2025-01-22,Lead In,2025-11-03,2025-02-10,,,Needs approval from board
+LD1765,CV Tunas Muda,Healthcare,Partner,Yuni Shara,Bandung,2025-07-22,Closed Won,2025-09-28,2025-08-24,137736000.0,,
+LD1766,CV Cahaya Abadi,F&B,Email Campaign,Dewi Lestari,,2025-04-21,Closed Lost,2025-07-05,2025-05-21,104789000.0,,
+LD1767,UD Global Teknindo,Construction,Referral,Andi Wijaya,Jakarta,2025-07-19,Lead In,2025-09-25,2025-09-19,,,Follow up next week
+LD1768,UD SUMBER MAKMUR,Manufacturing,Website,Budi Santoso,,2024-05-31,Proposal Sent,2024-06-10,,114501000.0,,
+LD1769,PT Tunas Muda,Retail,Email Campaign,,Bandung,2024-03-24,Lead In,2024-04-18,2024-03-05,,,
+LD1770,PT. Prima Nusantara,F&B,,Siti Nurhaliza,Jakarta,2025-01-23,Proposal Sent,2025-03-29,2025-02-28,113374000.0,,
+LD1771,UD Harapan Baru,Technology,Trade Show,Andi Wijaya,Jakarta,2025-03-21,Qualified,2025-03-27,,38351000.0,,Waiting for PO
+LD1772,CV Berkah Mandiri,Logistics,,Andi Wijaya,Yogyakarta,2024-02-20,Qualified,2024-03-13,2024-03-13,57548000.0,,
+LD1773,PT. Global Teknindo,,Website,Budi Santoso,Yogyakarta,2024-03-07,Lead In,2024-03-14,2024-03-07,,,Waiting for PO
+LD1774,PT Karya Utama,,Partner,,Bandung,2025-05-25,Closed Won,2025-06-26,2025-06-04,57957000.0,,Waiting for PO
+LD1775,PT. Cahaya Abadi,F&B,Cold Call,,Medan,2025-03-05,Negotiation,2025-03-22,2025-03-27,33653000.0,,Client on vacation
+LD1776,UD Nusantara Jaya,Retail,,Rudi Hartono,Yogyakarta,2024-08-22,Negotiation,2024-10-09,2024-08-24,103111000.0,,
+LD1777,UD Cahaya Abadi,Technology,Cold Call,Dewi Lestari,Surabaya,2024-07-01,Closed Won,2024-06-08,2024-07-14,145926000.0,,Client on vacation
+LD1778,PT. Bumi Perkasa,Retail,Partner,Dewi Lestari,Surabaya,2024-11-18,Closed Won,2024-12-04,2024-11-23,34838000.0,,Follow up next week
+LD1779,PT Mitra Sejahtera,Healthcare,Partner,Budi Santoso,Semarang,2024-08-19,Lead In,2024-10-11,,,,VIP client
+LD1780,PT Sumber Makmur,Finance,Cold Call,Ahmad Fauzi,Jakarta,2024-01-09,Lead In,2024-02-02,2024-01-17,,,VIP client
+LD1781,CV Indo Sukses,Retail,,Rina Marlina,Jakarta,2025-04-28,Proposal Sent,2025-07-01,2025-07-05,19716000.0,,
+LD1782,CV Sinar Jaya,F&B,Partner,Andi Wijaya,Yogyakarta,2024-04-21,Proposal Sent,2024-05-20,2024-04-25,80424000.0,,Waiting for PO
+LD1783,UD Berkah Mandiri,,Trade Show,Ahmad Fauzi,Medan,2024-09-18,Closed Lost,2024-12-17,2024-09-23,110148000.0,Chose competitor,
+LD1784,PT. Karya Utama,Technology,Website,Rina Marlina,Palembang,2024-07-16,Closed Won,2024-07-24,2024-07-19,32071000.0,,Follow up next week
+LD1785,UD Prima Nusantara,Education,Website,Siti Nurhaliza,Surabaya,2025-03-16,Proposal Sent,2025-09-04,,18099000.0,,VIP client
+LD1786,CV NUSANTARA JAYA,Retail,Referral,,Bandung,2024-11-01,Contacted,2025-01-26,,,,
+LD1787,UD Delta Solusi,Retail,Trade Show,Andi Wijaya,Palembang,2024-02-18,Proposal Sent,2024-05-01,2024-07-05,11596000.0,,Needs approval from board
+LD1788,UD Delta Solusi,Healthcare,Partner,Dewi Lestari,Jakarta,2025-07-19,Proposal Sent,2025-10-04,,102034000.0,,
+LD1789,PT Nusantara Jaya,F&B,Website,Budi Santoso,Semarang,2024-07-18,Closed Lost,2024-08-12,2024-08-12,126200000.0,,Needs approval from board
+LD1790,CV Cipta Karya,Retail,,Rudi Hartono,,2024-08-09,Qualified,2024-09-08,2024-08-31,91155000.0,,
+LD1791,UD Cipta Karya,Manufacturing,Trade Show,,Bandung,2024-12-15,Lead In,2025-01-03,2025-01-08,,,Client on vacation
+LD1792,PT Global Teknindo,Finance,,Rudi Hartono,Medan,2025-07-29,Proposal Sent,2025-09-22,2025-08-17,115441000.0,,Waiting for PO
+LD1793,PT. Harapan Baru,Retail,Website,,Surabaya,2024-06-17,Qualified,2024-06-08,2024-07-08,66269000.0,,
+LD1794,CV Delta Solusi,F&B,Inbound Call,Ahmad Fauzi,Denpasar,2024-02-27,Proposal Sent,2024-04-03,2024-03-01,95220000.0,,Follow up next week
+LD1795,CV Mega Trading,Manufacturing,Website,Budi Santoso,,2025-03-27,Qualified,2025-05-03,2025-05-13,133044000.0,,Send revised proposal
+LD1796,CV Sejahtera Bersama,Construction,Referral,Dewi Lestari,Bandung,2024-03-09,Negotiation,2024-02-29,2024-03-15,101846000.0,,
+LD1797,UD Indo Sukses,Manufacturing,Referral,Yuni Shara,Jakarta,2024-03-21,Proposal Sent,2024-03-22,2024-03-30,124125000.0,,
+LD1798,PT Bumi Perkasa,Logistics,Cold Call,Budi Santoso,Surabaya,2024-02-18,Contacted,2024-04-09,2024-03-15,,,
+LD1799,CV Bumi Perkasa,F&B,Cold Call,Budi Santoso,Medan,2025-04-19,Negotiation,2025-06-22,2025-07-01,27207000.0,,Send revised proposal
+LD1800,PT. Sumber Makmur,Retail,Partner,Yuni Shara,Palembang,2025-03-12,Closed Won,2025-04-11,2025-04-12,81825000.0,,
+LD1801,PT Indo Sukses,F&B,Website,,,2025-04-09,Qualified,2025-04-17,2025-04-14,140853000.0,,Client on vacation
+LD1802,PT. Bumi Perkasa,,Trade Show,Andi Wijaya,Jakarta,2025-01-09,Lead In,2025-02-21,2025-01-13,,,
+LD1803,UD Cipta Karya,Healthcare,Referral,Andi Wijaya,Jakarta,2025-08-04,Qualified,2025-10-02,2025-08-08,81070000.0,,Follow up next week
+LD1804,PT. Cipta Karya,Manufacturing,,Budi Santoso,Palembang,2024-09-13,Proposal Sent,2024-10-21,,46124000.0,,
+LD1805,PT Tunas Muda,Finance,Email Campaign,Yuni Shara,Medan,2025-04-03,Qualified,2025-04-29,2025-04-12,140218000.0,,
+LD1806,PT Indo Sukses,Technology,Inbound Call,,,2024-12-05,Qualified,2024-07-25,,,,Waiting for PO
+LD1807,CV Sejahtera Bersama,Finance,Cold Call,Rudi Hartono,Jakarta,2025-01-25,Negotiation,2025-03-09,2025-02-19,86241000.0,,Needs approval from board
+LD1808,CV Cipta Karya,Construction,Partner,Siti Nurhaliza,Bandung,2024-09-07,Proposal Sent,2024-09-29,2024-07-30,127318000.0,,Client on vacation
+LD1809,UD Bumi Perkasa,,Email Campaign,Siti Nurhaliza,Yogyakarta,2024-12-17,Qualified,2025-03-01,2025-05-02,104800000.0,,
+LD1810,CV Prima Nusantara,Retail,Website,,Yogyakarta,2025-01-30,Closed Lost,2025-04-12,2025-02-08,116404000.0,Chose competitor,Send revised proposal
+LD1811,CV Indo Sukses,Manufacturing,Cold Call,Rudi Hartono,Semarang,2025-06-18,Closed Won,2025-07-31,2025-07-08,,,Follow up next week
+LD1812,UD Karya Utama,Manufacturing,Inbound Call,Siti Nurhaliza,Bandung,2024-08-07,Closed Won,2024-10-07,2024-08-11,120223000.0,,
+LD1813,UD Indo Sukses,Construction,Referral,Rina Marlina,Yogyakarta,2025-08-28,Proposal Sent,2025-11-08,,72746000.0,,Client on vacation
+LD1814,UD Cipta Karya,Healthcare,LinkedIn,Andi Wijaya,Medan,2025-03-01,Negotiation,2025-04-28,2025-10-04,22456000.0,,
+LD1815,UD Maju Terus,Manufacturing,Partner,,Surabaya,2024-05-01,Closed Lost,2024-07-29,,51180000.0,Chose competitor,Client on vacation
+LD1816,UD Harapan Baru,Retail,Trade Show,Ahmad Fauzi,Makassar,2024-01-06,Qualified,2024-08-03,,32206000.0,,Follow up next week
+LD1817,CV Maju Terus,F&B,Website,Budi Santoso,Surabaya,2025-02-27,Contacted,2025-02-28,2025-03-02,,,Follow up next week
+LD1818,PT. Sinar Jaya,Retail,Email Campaign,Yuni Shara,Bandung,2024-05-26,Closed Won,2024-05-21,2024-08-02,94362000.0,,Send revised proposal
+LD1819,PT Sejahtera Bersama,Manufacturing,Website,Budi Santoso,,2024-07-04,Closed Won,2024-09-04,2024-08-31,85182000.0,,VIP client
+LD1820,CV Delta Solusi,F&B,Referral,Budi Santoso,Bandung,2025-07-16,Closed Won,2025-09-11,2025-08-07,97522000.0,,
+LD1821,UD Berkah Mandiri,Healthcare,,Budi Santoso,Surabaya,2024-04-13,Negotiation,2024-05-25,2024-05-18,88606000.0,,Waiting for PO
+LD1822,PT Delta Solusi,Logistics,,Rudi Hartono,Makassar,2024-08-12,Contacted,2024-10-02,2024-08-26,,,Send revised proposal
+LD1823,PT Anugrah Sentosa,Retail,,Rina Marlina,Jakarta,2024-07-10,Proposal Sent,2024-09-05,2024-09-19,135359000.0,,VIP client
+LD1824,PT. Mega Trading,Finance,Inbound Call,Yuni Shara,Yogyakarta,2024-05-17,Negotiation,2024-07-07,2024-07-20,109464000.0,,Send revised proposal
+LD1825,PT Cahaya Abadi,Construction,Cold Call,Rudi Hartono,Surabaya,2024-12-31,Contacted,2025-03-23,,,,
+LD1826,CV Delta Solusi,Healthcare,LinkedIn,Andi Wijaya,Palembang,2024-04-22,Qualified,2024-06-06,,26125000.0,,Waiting for PO
+LD1827,PT. Central Distribusi,Manufacturing,Inbound Call,Andi Wijaya,Semarang,2024-07-16,Lead In,2024-08-11,2024-08-23,,,
+LD1828,PT. Nusantara Jaya,Manufacturing,Inbound Call,Andi Wijaya,Jakarta,2024-07-31,Contacted,2024-10-27,2024-10-16,,,
+LD1829,CV Cahaya Abadi,Healthcare,Referral,Ahmad Fauzi,Medan,2024-12-05,Closed Won,2024-05-18,2024-05-18,109004000.0,,
+LD1830,CV Sejahtera Bersama,F&B,Partner,,Bandung,2024-06-02,Negotiation,2024-07-09,2024-11-06,,,Needs approval from board
+LD1831,UD Karya Utama,Retail,Partner,Yuni Shara,,2024-12-24,Negotiation,2025-01-02,,110926000.0,,Send revised proposal
+LD1832,PT KARYA UTAMA,Manufacturing,Social Media,Budi Santoso,Medan,2025-10-03,Closed Lost,2025-05-20,2025-04-25,56270000.0,,Follow up next week
+LD1833,PT Sejahtera Bersama,Manufacturing,,Andi Wijaya,,2024-03-03,Qualified,2024-03-14,2024-03-23,129571000.0,,Follow up next week
+LD1834,PT. Central Distribusi,Healthcare,,,Semarang,2024-01-03,Contacted,2024-05-19,2024-04-24,,,Waiting for PO
+LD1835,PT. Sumber Makmur,Manufacturing,Email Campaign,Budi Santoso,,2024-12-22,Qualified,2025-02-15,,141974000.0,,Follow up next week
+LD1836,PT Central Distribusi,Retail,Email Campaign,Budi Santoso,Yogyakarta,2024-08-23,Contacted,2024-10-14,,,,Client on vacation
+LD1837,PT Tunas Muda,Education,Cold Call,Siti Nurhaliza,Jakarta,2024-02-01,Closed Won,2024-02-15,2024-02-12,106237000.0,,Waiting for PO
+LD1838,UD CENTRAL DISTRIBUSI,Healthcare,Website,Budi Santoso,Jakarta,2024-04-26,Negotiation,2024-04-19,2024-02-05,80162000.0,,Follow up next week
+LD1839,PT Cahaya Abadi,Manufacturing,Trade Show,Ahmad Fauzi,Medan,2025-03-23,Closed Won,2025-05-18,2025-05-01,13682000.0,,
+LD1840,CV Cipta Karya,,Email Campaign,Siti Nurhaliza,,2025-02-04,Proposal Sent,2025-06-27,2025-06-13,,,Waiting for PO
+LD1841,PT. Indo Sukses,Technology,Email Campaign,Yuni Shara,Denpasar,2024-11-20,Negotiation,2024-11-26,,,,Send revised proposal
+LD1842,PT. Delta Solusi,Healthcare,Referral,Andi Wijaya,,2025-01-26,Proposal Sent,2025-05-03,2025-02-22,23969000.0,,VIP client
+LD1843,CV Sumber Makmur,Finance,Website,Budi Santoso,Semarang,2025-08-05,Closed Won,2025-10-23,,4170000.0,,Needs approval from board
+LD1844,PT Berkah Mandiri,Finance,LinkedIn,Andi Wijaya,Makassar,2024-09-22,Lead In,2024-12-01,2024-12-07,,,
+LD1845,PT. Global Teknindo,Manufacturing,Referral,Andi Wijaya,,2025-03-31,Closed Lost,2025-06-08,2025-05-27,88972000.0,Timing not right,VIP client
+LD1846,PT Sinar Jaya,Education,Trade Show,Andi Wijaya,Jakarta,2025-06-03,Qualified,2025-06-05,,11134000.0,,
+LD1847,PT. Cipta Karya,Construction,Referral,Yuni Shara,Palembang,2025-08-27,Contacted,2025-09-18,2025-10-03,,,Send revised proposal
+LD1848,CV Sinar Jaya,Technology,Inbound Call,Budi Santoso,Yogyakarta,2025-08-25,Qualified,2025-09-10,2025-09-15,64681000.0,,Client on vacation
+LD1849,UD Mega Trading,Education,Cold Call,Yuni Shara,Yogyakarta,2024-05-07,Qualified,2024-07-11,,43890000.0,,
+ld1014,UD Prima Nusantara,Education,,Budi Santoso,Palembang,2025-04-14,Proposal Sent,2025-06-26,2025-07-01,41250000.0,,VIP client
+ld1138,PT Bumi Perkasa,F&B,Cold Call,Andi Wijaya,Medan,2025-05-04,Lead In,2025-06-23,,,,
+ld1218,UD Maju Terus,Technology,Cold Call,Dewi Lestari,Makassar,2024-10-09,Negotiation,2024-11-24,2024-11-07,62007000.0,,
+ld1230,UD Karya Utama,F&B,Website,Budi Santoso,,2025-07-31,Qualified,2025-10-21,2025-09-13,47830000.0,,VIP client
+ld1243,PT. Sumber Makmur,Finance,Cold Call,Andi Wijaya,Jakarta,2025-03-16,Closed Won,2025-04-27,2025-03-24,115325000.0,,Waiting for PO
+ld1341,UD Tunas Muda,Manufacturing,,Budi Santoso,Denpasar,2025-06-02,Lead In,2025-07-26,2025-06-25,,,
+ld1424,CV Maju Terus,Logistics,Inbound Call,,,2024-04-01,Qualified,2024-04-03,2024-09-03,125642000.0,,Follow up next week
+ld1703,PT. Sumber Makmur,Finance,Email Campaign,Budi Santoso,Jakarta,2024-09-26,Qualified,2024-12-20,2024-12-20,63162000.0,,VIP client
+ld1737,PT. Cahaya Abadi,Healthcare,Inbound Call,Rina Marlina,Palembang,2025-05-13,Closed Won,2025-06-25,2025-07-03,91380000.0,,Client on vacation
