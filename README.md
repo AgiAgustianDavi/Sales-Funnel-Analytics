@@ -59,7 +59,7 @@ The full narrative report (with executive framing, callouts, and recommendations
 
 ## 1. Where Are Leads Dropping Off?
 
-![Funnel Conversion](1.png)
+![Image](1.jpeg)
 
 **Key numbers**
 - 🔻 **71.2%** conversion from Qualified → Proposal Sent (biggest drop-off)
@@ -79,7 +79,7 @@ The full narrative report (with executive framing, callouts, and recommendations
 
 ## 2. How Does Each Sales Rep Perform?
 
-![Win Rate per Sales Rep](./charts/2_winrate_per_rep.png)
+![Image](2.jpeg)
 
 **Key numbers**
 - 🔺 **82.4%** — highest win rate (Yuni Shara)
@@ -99,7 +99,7 @@ The full narrative report (with executive framing, callouts, and recommendations
 
 ## 3. Which Lead Source Is Most Valuable?
 
-![Lead Source Quality](./charts/3_lead_source_quality.png)
+![Image](3.jpeg)
 
 **Key numbers**
 - 🔺 **17.2%** — highest won rate (LinkedIn)
@@ -119,7 +119,7 @@ The full narrative report (with executive framing, callouts, and recommendations
 
 ## 4. How Long Does the Sales Cycle Take per Region?
 
-![Sales Cycle Length by Region](./charts/4_sales_cycle_by_region.png)
+![Image](4.jpeg)
 
 **Key numbers**
 - 🔺 **61.1 days** — Jakarta, the longest cycle with a reliable sample size (n=39)
@@ -141,7 +141,7 @@ The full narrative report (with executive framing, callouts, and recommendations
 
 ## 5. Why Are Deals Lost, and Can It Be Prevented?
 
-![Lost Reason Breakdown](./charts/5_lost_reason_breakdown.png)
+![Image](5.jpeg)
 
 **Key numbers**
 - ⚠️ **34%** of lost deals (22 of 64) have **no reason recorded**
@@ -181,32 +181,7 @@ The full narrative report (with executive framing, callouts, and recommendations
 
 ---
 
-## 📁 Repository Structure
+## 👤 Author
 
-```
-.
-├── README.md
-├── sales_funnel_leads_clean.csv          # Source dataset (850 rows)
-├── Laporan_Analisis_Sales_Funnel.pdf     # Full narrative report (Bahasa Indonesia)
-├── Tutorial_PowerBI_Sales_Funnel.docx    # Step-by-step guide to rebuild all 5 charts in Power BI
-└── charts/
-    ├── 1_funnel_conversion.png
-    ├── 2_winrate_per_rep.png
-    ├── 3_lead_source_quality.png
-    ├── 4_sales_cycle_by_region.png
-    └── 5_lost_reason_breakdown.png
-```
+Agi Agustian Davi - Entry Level Data Analyst
 
----
-
-## 🛠️ Tools Used
-
-- **Python** (pandas, matplotlib) — data cleaning, analysis, and chart generation
-- **Power BI Desktop** — alternative chart rebuild guide included ([tutorial](./Tutorial_PowerBI_Sales_Funnel.docx))
-- **HTML/CSS + Chromium** — PDF report generation
-
----
-
-## 📄 License
-
-This project is shared for portfolio/demonstration purposes. The dataset is anonymized/synthetic sample data.
